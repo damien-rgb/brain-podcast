@@ -8,5 +8,105 @@
     "bytes": 6188588,
     "duration": 386.76,
     "pubDate": "Tue, 21 Jul 2026 15:05:53 GMT"
+  },
+  {
+    "num": 2,
+    "slug": "w36-the-daily-stand-up",
+    "title": "Weekly 36: The Daily Stand-Up",
+    "description": "Mike's new daily stand-up skill turns your morning Google Ads check into a little team of analysts: seven analysts run every campaign, then a bull-and-bear growth-vs-efficiency debate goes to a strategist for the final call, and you rate each recommendation so it learns your judgment.",
+    "file": "02-w36-the-daily-stand-up.mp3",
+    "bytes": 10625086,
+    "duration": 664,
+    "pubDate": "Tue, 21 Jul 2026 15:17:43 GMT"
+  },
+  {
+    "num": 3,
+    "slug": "w35-how-to-make-claude-code-more-useful",
+    "title": "Weekly 35: How to Make Claude Code More Useful",
+    "description": "Where you put an instruction matters more than the wording. A tour of Claude Code's toolkit - CLAUDE.md for facts, skills for runbooks, rules for edges, hooks for must-always-happen, subagents for side-quests - and the three questions that pick the right one.",
+    "file": "03-w35-how-to-make-claude-code-more-useful.mp3",
+    "bytes": 15999205,
+    "duration": 999.872018,
+    "pubDate": "Tue, 21 Jul 2026 15:16:43 GMT"
+  },
+  {
+    "num": 4,
+    "slug": "w34-cloudflare-explained",
+    "title": "Weekly 34: Cloudflare Explained",
+    "description": "The engine room behind the brain: Cloudflare holds your API keys behind a wall, gives each person their own revocable token, hosts your sites, and runs a private tunnel to your Workbench - all on the free tier.",
+    "file": "04-w34-cloudflare-explained.mp3",
+    "bytes": 12451986,
+    "duration": 778.17034,
+    "pubDate": "Tue, 21 Jul 2026 15:15:43 GMT"
+  },
+  {
+    "num": 5,
+    "slug": "w33-loop-engineering",
+    "title": "Weekly 33: Loop Engineering",
+    "description": "Stop prompting the work, build the loop that does it. The four questions that decide whether a loop is worth building, the four ingredients of a good one, and why you add training wheels before autopilot.",
+    "file": "05-w33-loop-engineering.mp3",
+    "bytes": 17385158,
+    "duration": 1086.506667,
+    "pubDate": "Tue, 21 Jul 2026 15:14:43 GMT"
+  },
+  {
+    "num": 6,
+    "slug": "w32-meet-the-workbench",
+    "title": "Weekly 32: Meet the Workbench",
+    "description": "The Workbench is where Mike now spends his day: click play on any project to spawn a fresh Claude session with full context, and right-click anything to change it in about two minutes.",
+    "file": "06-w32-meet-the-workbench.mp3",
+    "bytes": 20570007,
+    "duration": 1285.546667,
+    "pubDate": "Tue, 21 Jul 2026 15:13:43 GMT"
+  },
+  {
+    "num": 7,
+    "slug": "w31-ai-building-blocks-tools-skills-agents-and-workflows",
+    "title": "Weekly 31: AI Building Blocks: Tools, Skills, Agents and Workflows",
+    "description": "Tools, Skills, Agents, Hooks, Teams and Workflows - the primitives inside Claude and when to reach for each, so you stop guessing whether something is a skill or an agent.",
+    "file": "07-w31-ai-building-blocks-tools-skills-agents-and-workflows.mp3",
+    "bytes": 27606350,
+    "duration": 1725.33551,
+    "pubDate": "Tue, 21 Jul 2026 15:12:43 GMT"
+  },
+  {
+    "num": 8,
+    "slug": "w30-use-html-to-build-better-ai",
+    "title": "Weekly 30: Use HTML to Build Better AI",
+    "description": "Before asking for an artifact, ask: am I going to consume this or edit it? If you'll consume it, ask for HTML not Markdown - real clickable, zoomable infrastructure instead of a monospaced terminal.",
+    "file": "08-w30-use-html-to-build-better-ai.mp3",
+    "bytes": 22741305,
+    "duration": 1421.246984,
+    "pubDate": "Tue, 21 Jul 2026 15:11:43 GMT"
+  },
+  {
+    "num": 9,
+    "slug": "w29-different-design-styles",
+    "title": "Weekly 29: Different Design Styles",
+    "description": "Grab detailed 'design MD' files, drop them in a folder, and have Claude build 14 one-page proof-of-concept sites from one brief in a single session. Brilliant for client landing-page proposals.",
+    "file": "09-w29-different-design-styles.mp3",
+    "bytes": 6499829,
+    "duration": 406.163447,
+    "pubDate": "Tue, 21 Jul 2026 15:10:43 GMT"
+  },
+  {
+    "num": 10,
+    "slug": "w28-agentview-from-anthropic",
+    "title": "Weekly 28: AgentView from Anthropic",
+    "description": "Anthropic's AgentView shows every running Claude Code session on one screen with a 'needs input' flag, so parallel work stops getting buried. Handy if you run lots of sessions, less so at two or three.",
+    "file": "10-w28-agentview-from-anthropic.mp3",
+    "bytes": 16393341,
+    "duration": 1024.512018,
+    "pubDate": "Tue, 21 Jul 2026 15:09:43 GMT"
+  },
+  {
+    "num": 11,
+    "slug": "w27-right-click-customization-with-claude-channels",
+    "title": "Weekly 27: Right-Click Customization with Claude Channels",
+    "description": "Claude Channels lets a background session listen to your app and rewrite its own code: right-click any element, describe the change in plain English, and Claude edits the software. The customization layer is the point.",
+    "file": "11-w27-right-click-customization-with-claude-channels.mp3",
+    "bytes": 4958019,
+    "duration": 438.442667,
+    "pubDate": "Tue, 21 Jul 2026 15:08:43 GMT"
   }
 ]
