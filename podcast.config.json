@@ -1,0 +1,11 @@
+{
+  "title": "Damien's Brain Audio",
+  "description": "A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.",
+  "author": "Damien Fegan",
+  "ownerEmail": "damien@wearebeacon.co",
+  "language": "en",
+  "category": "Technology",
+  "explicit": "false",
+  "baseUrl": "https://damien-rgb.github.io/brain-podcast",
+  "image": "cover.png"
+}

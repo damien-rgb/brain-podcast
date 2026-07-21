@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Damien&apos;s Brain Audio</title>
+    <link>https://damien-rgb.github.io/brain-podcast/</link>
+    <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2026 15:05:53 GMT</lastBuildDate>
+    <itunes:author>Damien Fegan</itunes:author>
+    <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://damien-rgb.github.io/brain-podcast/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Damien Fegan</itunes:name>
+      <itunes:email>damien@wearebeacon.co</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://damien-rgb.github.io/brain-podcast/cover.png</url>
+      <title>Damien&apos;s Brain Audio</title>
+      <link>https://damien-rgb.github.io/brain-podcast/</link>
+    </image>
+    <item>
+      <title>Field Guide to Fable</title>
+      <description>Anthropic&apos;s Tarik Shihipar on how to work with Fable, a new class of model. Four parts: unhobbling Claude, finding your unknowns, dealing with the grief, and being unreasonable. A summary of his AI Engineer talk.</description>
+      <itunes:summary>Anthropic&apos;s Tarik Shihipar on how to work with Fable, a new class of model. Four parts: unhobbling Claude, finding your unknowns, dealing with the grief, and being unreasonable. A summary of his AI Engineer talk.</itunes:summary>
+      <pubDate>Tue, 21 Jul 2026 15:05:53 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/01-field-guide-to-fable.mp3" length="6188588" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/01-field-guide-to-fable.mp3</guid>
+      <itunes:duration>6:27</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
