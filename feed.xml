@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 15:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:55:05 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -139,6 +139,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/11-w27-right-click-customization-with-claude-channels.mp3" length="4958019" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/11-w27-right-click-customization-with-claude-channels.mp3</guid>
       <itunes:duration>7:18</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pirate Borg: Running the Dark Caribbean</title>
+      <description>A GM&apos;s briefing on the setting of Pirate Borg. What the Dark Caribbean is, the real Golden Age of Piracy history it&apos;s built on (Nassau&apos;s pirate republic, the sinking of Port Royal, Tortuga&apos;s buccaneers, the Spanish treasure fleets, and where the Yucatan actually is), and then the twist: the Scourge, ASH, the six-chapter apocalypse, the seven powers from the pirate republic to the Wretched cult, the vibe of each island, and what the monster list tells you about the tone. Ends with how it actually feels to run at the table.</description>
+      <itunes:summary>A GM&apos;s briefing on the setting of Pirate Borg. What the Dark Caribbean is, the real Golden Age of Piracy history it&apos;s built on (Nassau&apos;s pirate republic, the sinking of Port Royal, Tortuga&apos;s buccaneers, the Spanish treasure fleets, and where the Yucatan actually is), and then the twist: the Scourge, ASH, the six-chapter apocalypse, the seven powers from the pirate republic to the Wretched cult, the vibe of each island, and what the monster list tells you about the tone. Ends with how it actually feels to run at the table.</itunes:summary>
+      <pubDate>Wed, 22 Jul 2026 13:55:05 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/12-pirate-borg-dark-caribbean.mp3" length="22951724" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/12-pirate-borg-dark-caribbean.mp3</guid>
+      <itunes:duration>23:54</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
