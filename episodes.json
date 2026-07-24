@@ -128,5 +128,15 @@
     "bytes": 13181996,
     "duration": 823.848,
     "pubDate": "Fri, 24 Jul 2026 04:45:43 GMT"
+  },
+  {
+    "num": 14,
+    "slug": "hexmap-coherent",
+    "title": "Hex Maps Addendum: The Welsh Piper & Hex Flowers",
+    "description": "Two coherent, famous methods for neighbour-dependent hex terrain: Erin Smale's Welsh Piper adjacency system and Goblin's Henchman's hex flower engine, both wired to the Bare World tables.",
+    "file": "14-hexmap-coherent.mp3",
+    "bytes": 10737068,
+    "duration": 671.04,
+    "pubDate": "Fri, 24 Jul 2026 04:59:11 GMT"
   }
 ]

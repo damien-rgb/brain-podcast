@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 04:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:59:11 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -161,6 +161,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/13-hexmap-dice.mp3" length="13181996" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/13-hexmap-dice.mp3</guid>
       <itunes:duration>13:44</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hex Maps Addendum: The Welsh Piper &amp; Hex Flowers</title>
+      <description>Two coherent, famous methods for neighbour-dependent hex terrain: Erin Smale&apos;s Welsh Piper adjacency system and Goblin&apos;s Henchman&apos;s hex flower engine, both wired to the Bare World tables.</description>
+      <itunes:summary>Two coherent, famous methods for neighbour-dependent hex terrain: Erin Smale&apos;s Welsh Piper adjacency system and Goblin&apos;s Henchman&apos;s hex flower engine, both wired to the Bare World tables.</itunes:summary>
+      <pubDate>Fri, 24 Jul 2026 04:59:11 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/14-hexmap-coherent.mp3" length="10737068" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/14-hexmap-coherent.mp3</guid>
+      <itunes:duration>11:11</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
