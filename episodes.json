@@ -138,5 +138,15 @@
     "bytes": 10737068,
     "duration": 671.04,
     "pubDate": "Fri, 24 Jul 2026 04:59:11 GMT"
+  },
+  {
+    "num": 15,
+    "slug": "wrong-shadow",
+    "title": "The Wrong Shadow: Building Worlds from Knave's Tables",
+    "description": "A design diary on turning Knave 2E's random tables into two settings, the Saltmere and the Starscar, and a fully playable module booklet, plus the method underneath.",
+    "file": "15-wrong-shadow.mp3",
+    "bytes": 17108396,
+    "duration": 1069.248,
+    "pubDate": "Sat, 25 Jul 2026 23:37:58 GMT"
   }
 ]

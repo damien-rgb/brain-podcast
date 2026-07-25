@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 04:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:37:58 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -172,6 +172,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/14-hexmap-coherent.mp3" length="10737068" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/14-hexmap-coherent.mp3</guid>
       <itunes:duration>11:11</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Wrong Shadow: Building Worlds from Knave&apos;s Tables</title>
+      <description>A design diary on turning Knave 2E&apos;s random tables into two settings, the Saltmere and the Starscar, and a fully playable module booklet, plus the method underneath.</description>
+      <itunes:summary>A design diary on turning Knave 2E&apos;s random tables into two settings, the Saltmere and the Starscar, and a fully playable module booklet, plus the method underneath.</itunes:summary>
+      <pubDate>Sat, 25 Jul 2026 23:37:58 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/15-wrong-shadow.mp3" length="17108396" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/15-wrong-shadow.mp3</guid>
+      <itunes:duration>17:49</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
