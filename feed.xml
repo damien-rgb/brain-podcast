@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:38:37 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -205,6 +205,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/17-scarlet-heroes-01.mp3" length="5809580" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/17-scarlet-heroes-01.mp3</guid>
       <itunes:duration>6:03</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scarlet Heroes 2: Making a Hero</title>
+      <description>Character creation start to finish. Attributes, the four classes, the Fray die, background traits, gear and descending armour class, in about ten minutes.</description>
+      <itunes:summary>Character creation start to finish. Attributes, the four classes, the Fray die, background traits, gear and descending armour class, in about ten minutes.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 20:38:37 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/18-scarlet-heroes-02.mp3" length="7087916" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/18-scarlet-heroes-02.mp3</guid>
+      <itunes:duration>7:23</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
