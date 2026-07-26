@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 23:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:43:37 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -183,6 +183,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/15-wrong-shadow.mp3" length="17108396" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/15-wrong-shadow.mp3</guid>
       <itunes:duration>17:49</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2D6 Dungeon 1: What It Is and Why It Fits You</title>
+      <description>Learn 2D6 Dungeon, episode 1. What the game is, and why a roll-and-write dungeon crawler suits how you think.</description>
+      <itunes:summary>Learn 2D6 Dungeon, episode 1. What the game is, and why a roll-and-write dungeon crawler suits how you think.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 17:43:37 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/16-2d6-dungeon-01.mp3" length="6999980" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/16-2d6-dungeon-01.mp3</guid>
+      <itunes:duration>7:17</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
