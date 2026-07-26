@@ -178,5 +178,15 @@
     "bytes": 7087916,
     "duration": 442.968,
     "pubDate": "Sun, 26 Jul 2026 20:38:37 GMT"
+  },
+  {
+    "num": 19,
+    "slug": "scarlet-heroes-03",
+    "title": "Scarlet Heroes 3: One Against Many",
+    "description": "The engine that keeps a lone hero alive: the damage-conversion rule, hit dice versus hit points, the free-every-round Fray die, and Defy Death.",
+    "file": "19-scarlet-heroes-03.mp3",
+    "bytes": 7362476,
+    "duration": 460.128,
+    "pubDate": "Sun, 26 Jul 2026 20:38:55 GMT"
   }
 ]

@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:38:55 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -216,6 +216,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/18-scarlet-heroes-02.mp3" length="7087916" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/18-scarlet-heroes-02.mp3</guid>
       <itunes:duration>7:23</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scarlet Heroes 3: One Against Many</title>
+      <description>The engine that keeps a lone hero alive: the damage-conversion rule, hit dice versus hit points, the free-every-round Fray die, and Defy Death.</description>
+      <itunes:summary>The engine that keeps a lone hero alive: the damage-conversion rule, hit dice versus hit points, the free-every-round Fray die, and Defy Death.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 20:38:55 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/19-scarlet-heroes-03.mp3" length="7362476" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/19-scarlet-heroes-03.mp3</guid>
+      <itunes:duration>7:40</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
