@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:39:32 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -238,6 +238,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/20-scarlet-heroes-04.mp3" length="6664748" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/20-scarlet-heroes-04.mp3</guid>
       <itunes:duration>6:57</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scarlet Heroes 5: Into the Sunset Isles</title>
+      <description>Our campaign. The Red Tide setting, the ruined Westmark frontier, the town of Hulun Bir, your companion, and a first night where the wells turn red.</description>
+      <itunes:summary>Our campaign. The Red Tide setting, the ruined Westmark frontier, the town of Hulun Bir, your companion, and a first night where the wells turn red.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 20:39:32 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/21-scarlet-heroes-05.mp3" length="8781740" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/21-scarlet-heroes-05.mp3</guid>
+      <itunes:duration>9:09</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
