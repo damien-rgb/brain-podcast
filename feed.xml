@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:39:13 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -227,6 +227,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/19-scarlet-heroes-03.mp3" length="7362476" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/19-scarlet-heroes-03.mp3</guid>
       <itunes:duration>7:40</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scarlet Heroes 4: The Unseen Game Master</title>
+      <description>The solo and duet toolkit. The yes/no oracle, the world-building generators, and how our sessions run with fair dice rolled in the open.</description>
+      <itunes:summary>The solo and duet toolkit. The yes/no oracle, the world-building generators, and how our sessions run with fair dice rolled in the open.</itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 20:39:13 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/20-scarlet-heroes-04.mp3" length="6664748" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/20-scarlet-heroes-04.mp3</guid>
+      <itunes:duration>6:57</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
