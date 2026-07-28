@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:43:39 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -249,6 +249,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/21-scarlet-heroes-05.mp3" length="8781740" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/21-scarlet-heroes-05.mp3</guid>
       <itunes:duration>9:09</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 1: The Sunset Isles</title>
+      <description>A companion guide to the world of the Red Tide, in my own words. Chapter one: the drowned world, the last refuge, and the crimson mist that waits offshore.</description>
+      <itunes:summary>A companion guide to the world of the Red Tide, in my own words. Chapter one: the drowned world, the last refuge, and the crimson mist that waits offshore.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 11:43:39 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/22-red-tide-01-sunset-isles.mp3" length="7020716" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/22-red-tide-01-sunset-isles.mp3</guid>
+      <itunes:duration>7:19</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
