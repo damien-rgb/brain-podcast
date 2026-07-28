@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:32:48 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -326,6 +326,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/28-red-tide-07-state-society.mp3" length="7943852" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/28-red-tide-07-state-society.mp3</guid>
       <itunes:duration>8:16</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 8: Red Sorcery</title>
+      <description>How magic works on the Isles, in my own words: geomancy and the soul, godbone, the afterlife and hungry ghosts, the four traditions, elven sorcery, and the ever-hungry Hell Kings.</description>
+      <itunes:summary>How magic works on the Isles, in my own words: geomancy and the soul, godbone, the afterlife and hungry ghosts, the four traditions, elven sorcery, and the ever-hungry Hell Kings.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:32:48 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/29-red-tide-08-red-sorcery.mp3" length="7946156" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/29-red-tide-08-red-sorcery.mp3</guid>
+      <itunes:duration>8:17</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
