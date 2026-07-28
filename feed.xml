@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:35:55 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -348,6 +348,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/30-red-tide-09-bestiary.mp3" length="8224172" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/30-red-tide-09-bestiary.mp3</guid>
       <itunes:duration>8:34</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 10: The Tide Moves Again</title>
+      <description>The closing chapter, in my own words: the present crisis of 300 AL - the land squeeze, the Shogun&apos;s open war, the rising Tide Cults - and why heroism on the Isles falls to small, stubborn bands.</description>
+      <itunes:summary>The closing chapter, in my own words: the present crisis of 300 AL - the land squeeze, the Shogun&apos;s open war, the rising Tide Cults - and why heroism on the Isles falls to small, stubborn bands.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:35:55 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/31-red-tide-10-tide-moves-again.mp3" length="6671276" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/31-red-tide-10-tide-moves-again.mp3</guid>
+      <itunes:duration>6:57</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
