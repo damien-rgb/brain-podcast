@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:19:14 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -282,6 +282,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/24-red-tide-03-humankind.mp3" length="7899308" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/24-red-tide-03-humankind.mp3</guid>
       <itunes:duration>8:14</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 4: Dwarves, Elves &amp; Halflings</title>
+      <description>The demihuman peoples and their strange afterlives, in my own words: the dwarves and the Mother Below, the elves and their endless recurrence, and the quietly unbreakable halflings.</description>
+      <itunes:summary>The demihuman peoples and their strange afterlives, in my own words: the dwarves and the Mother Below, the elves and their endless recurrence, and the quietly unbreakable halflings.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:19:14 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/25-red-tide-04-demihumans.mp3" length="7787180" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/25-red-tide-04-demihumans.mp3</guid>
+      <itunes:duration>8:07</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
