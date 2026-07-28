@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:19:30 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -293,6 +293,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/25-red-tide-04-demihumans.mp3" length="7787180" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/25-red-tide-04-demihumans.mp3</guid>
       <itunes:duration>8:07</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 5: The Shou</title>
+      <description>The native enemy of the Isles, in my own words: the four breeds, the faith of Shakun, the witch-priestesses, the feuding that saves mankind, and the Shou hatred of the Tide itself.</description>
+      <itunes:summary>The native enemy of the Isles, in my own words: the four breeds, the faith of Shakun, the witch-priestesses, the feuding that saves mankind, and the Shou hatred of the Tide itself.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:19:30 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/26-red-tide-05-the-shou.mp3" length="6940076" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/26-red-tide-05-the-shou.mp3</guid>
+      <itunes:duration>7:14</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
