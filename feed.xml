@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 11:43:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:14:02 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -260,6 +260,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/22-red-tide-01-sunset-isles.mp3" length="7020716" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/22-red-tide-01-sunset-isles.mp3</guid>
       <itunes:duration>7:19</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 2: A Crimson Past</title>
+      <description>The history of the Sunset Isles, in my own words: the vanished dwarves, Lammach&apos;s vision, the Landing, the Bright Years, the Ravaging, and the tense present of 300 AL.</description>
+      <itunes:summary>The history of the Sunset Isles, in my own words: the vanished dwarves, Lammach&apos;s vision, the Landing, the Bright Years, the Ravaging, and the tense present of 300 AL.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:14:02 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/23-red-tide-02-crimson-past.mp3" length="8857772" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/23-red-tide-02-crimson-past.mp3</guid>
+      <itunes:duration>9:14</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
