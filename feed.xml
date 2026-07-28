@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:24:46 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -304,6 +304,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/26-red-tide-05-the-shou.mp3" length="6940076" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/26-red-tide-05-the-shou.mp3</guid>
       <itunes:duration>7:14</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 6: The Lay of the Land</title>
+      <description>The geography of the Isles, in my own words: the two great islands, the four climate bands, the deadly Wrack at the centre, the Godbarrow mountains, and the strange outer islands.</description>
+      <itunes:summary>The geography of the Isles, in my own words: the two great islands, the four climate bands, the deadly Wrack at the centre, the Godbarrow mountains, and the strange outer islands.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:24:46 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/27-red-tide-06-the-land.mp3" length="7162412" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/27-red-tide-06-the-land.mp3</guid>
+      <itunes:duration>7:28</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
