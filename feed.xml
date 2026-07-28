@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:32:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:33:17 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -337,6 +337,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/29-red-tide-08-red-sorcery.mp3" length="7946156" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/29-red-tide-08-red-sorcery.mp3</guid>
       <itunes:duration>8:17</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Red Tide Setting Guide 9: A Bestiary of the Isles</title>
+      <description>The monsters of the Isles as a world-dweller knows them, in my own words: Isle ogres, lizardfolk and Old Sleepers, ancient constructs, infernal demons and Hell Kings, and the horrors of the Tide.</description>
+      <itunes:summary>The monsters of the Isles as a world-dweller knows them, in my own words: Isle ogres, lizardfolk and Old Sleepers, ancient constructs, infernal demons and Hell Kings, and the horrors of the Tide.</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 12:33:17 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/30-red-tide-09-bestiary.mp3" length="8224172" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/30-red-tide-09-bestiary.mp3</guid>
+      <itunes:duration>8:34</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
