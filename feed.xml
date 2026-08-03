@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:50:04 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -403,6 +403,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/35-arch-04-verify.mp3" length="8198444" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/35-arch-04-verify.mp3</guid>
       <itunes:duration>8:32</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Machine Behind the Table 5: The Designer Surface</title>
+      <description>The last job, and the one deliberately not automated. Two roles, one window; the system-versus-world line; distilled never transcribed; generated never authored. Closing with what all of this costs - fluency, setup, and a world that refuses to give you the scene you asked for.</description>
+      <itunes:summary>The last job, and the one deliberately not automated. Two roles, one window; the system-versus-world line; distilled never transcribed; generated never authored. Closing with what all of this costs - fluency, setup, and a world that refuses to give you the scene you asked for.</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 12:50:04 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/36-arch-05-designer-surface.mp3" length="8377004" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/36-arch-05-designer-surface.mp3</guid>
+      <itunes:duration>8:44</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
