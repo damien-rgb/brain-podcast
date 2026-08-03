@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:49:59 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -392,6 +392,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/34-arch-03-declared-code.mp3" length="10881836" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/34-arch-03-declared-code.mp3</guid>
       <itunes:duration>11:20</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Machine Behind the Table 4: Why Verify Is Mandatory</title>
+      <description>The layer with no equivalent at a human table: not trusting your own notes. Four ways a scan can lie to you in a single table, three of which look completely fine, the Japanese names that ended up on a Chinese city and were caught in play by accident, and why fair dice do not help if the table lost three entries to a wrapped line.</description>
+      <itunes:summary>The layer with no equivalent at a human table: not trusting your own notes. Four ways a scan can lie to you in a single table, three of which look completely fine, the Japanese names that ended up on a Chinese city and were caught in play by accident, and why fair dice do not help if the table lost three entries to a wrapped line.</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 12:49:59 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/35-arch-04-verify.mp3" length="8198444" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/35-arch-04-verify.mp3</guid>
+      <itunes:duration>8:32</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

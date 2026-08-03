@@ -338,5 +338,15 @@
     "bytes": 10881836,
     "duration": 680.088,
     "pubDate": "Mon, 03 Aug 2026 12:49:52 GMT"
+  },
+  {
+    "num": 35,
+    "slug": "arch-04-verify",
+    "title": "The Machine Behind the Table 4: Why Verify Is Mandatory",
+    "description": "The layer with no equivalent at a human table: not trusting your own notes. Four ways a scan can lie to you in a single table, three of which look completely fine, the Japanese names that ended up on a Chinese city and were caught in play by accident, and why fair dice do not help if the table lost three entries to a wrapped line.",
+    "file": "35-arch-04-verify.mp3",
+    "bytes": 8198444,
+    "duration": 512.376,
+    "pubDate": "Mon, 03 Aug 2026 12:49:59 GMT"
   }
 ]
