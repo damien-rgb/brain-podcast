@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:49:52 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -381,6 +381,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/33-arch-02-every-verb.mp3" length="8898860" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/33-arch-02-every-verb.mp3</guid>
       <itunes:duration>9:16</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Machine Behind the Table 3: Processes Are Declared Code</title>
+      <description>Tables solved content; processes solve sequence. The six procedures, what momentum silently drops, and the moment the design was thrown out: a clockwise hex search in the wilderness rules that cannot be configuration without inventing a bad programming language. Plus why JUDGE markers locate interpretation rather than constrain it.</description>
+      <itunes:summary>Tables solved content; processes solve sequence. The six procedures, what momentum silently drops, and the moment the design was thrown out: a clockwise hex search in the wilderness rules that cannot be configuration without inventing a bad programming language. Plus why JUDGE markers locate interpretation rather than constrain it.</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 12:49:52 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/34-arch-03-declared-code.mp3" length="10881836" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/34-arch-03-declared-code.mp3</guid>
+      <itunes:duration>11:20</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
