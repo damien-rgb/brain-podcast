@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:25:22 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -359,6 +359,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/31-red-tide-10-tide-moves-again.mp3" length="6671276" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/31-red-tide-10-tide-moves-again.mp3</guid>
       <itunes:duration>6:57</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Machine Behind the Table 1: The Ceiling</title>
+      <description>Series 2, from the system architect&apos;s chair. We did not build an AI game master - we took the game master&apos;s six jobs apart and handed each to whoever can hold it honestly. Why inventing looks exactly like competence, the forty-lines-per-table ceiling and the unbounded denominator behind it, the code-versus-data line, and why processes deliberately stayed code.</description>
+      <itunes:summary>Series 2, from the system architect&apos;s chair. We did not build an AI game master - we took the game master&apos;s six jobs apart and handed each to whoever can hold it honestly. Why inventing looks exactly like competence, the forty-lines-per-table ceiling and the unbounded denominator behind it, the code-versus-data line, and why processes deliberately stayed code.</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 11:25:22 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/32-arch-01-the-ceiling.mp3" length="9705644" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/32-arch-01-the-ceiling.mp3</guid>
+      <itunes:duration>10:07</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

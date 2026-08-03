@@ -308,5 +308,15 @@
     "bytes": 6671276,
     "duration": 416.928,
     "pubDate": "Tue, 28 Jul 2026 12:35:55 GMT"
+  },
+  {
+    "num": 32,
+    "slug": "arch-01-the-ceiling",
+    "title": "The Machine Behind the Table 1: The Ceiling",
+    "description": "Series 2, from the system architect's chair. We did not build an AI game master - we took the game master's six jobs apart and handed each to whoever can hold it honestly. Why inventing looks exactly like competence, the forty-lines-per-table ceiling and the unbounded denominator behind it, the code-versus-data line, and why processes deliberately stayed code.",
+    "file": "32-arch-01-the-ceiling.mp3",
+    "bytes": 9705644,
+    "duration": 606.576,
+    "pubDate": "Mon, 03 Aug 2026 11:25:22 GMT"
   }
 ]
