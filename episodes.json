@@ -438,5 +438,15 @@
     "bytes": 2193452,
     "duration": 137.064,
     "pubDate": "Thu, 06 Aug 2026 09:23:50 GMT"
+  },
+  {
+    "num": 45,
+    "slug": "lc-07",
+    "title": "Learn Cowork 7: What Cowork Can and Cannot See",
+    "description": "The boundaries. What it can reach (your folder, files you drag in, the conversation), what it cannot (other folders, your inbox, your screen), and how the permission model works.",
+    "file": "45-lc-07.mp3",
+    "bytes": 2735660,
+    "duration": 170.952,
+    "pubDate": "Thu, 06 Aug 2026 09:23:53 GMT"
   }
 ]
