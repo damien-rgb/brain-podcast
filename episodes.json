@@ -358,5 +358,15 @@
     "bytes": 8377004,
     "duration": 523.536,
     "pubDate": "Mon, 03 Aug 2026 12:50:04 GMT"
+  },
+  {
+    "num": 37,
+    "slug": "w37-adding-context-by-dragging-files",
+    "title": "Weekly 37: Adding Context by Dragging Files",
+    "description": "How Mike feeds context into a session: screenshots pasted straight in, and files dragged into the chat (shift-drop) so the path lands in the prompt. The bit that should change how you organise your brain - dragging a file makes Claude read that folder's CLAUDE.md then walk up the tree, so the root file should hold only what belongs in every conversation.",
+    "file": "37-w37-adding-context-by-dragging-files.mp3",
+    "bytes": 10980769,
+    "duration": 686.22932,
+    "pubDate": "Thu, 06 Aug 2026 07:32:30 GMT"
   }
 ]
