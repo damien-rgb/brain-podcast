@@ -738,5 +738,15 @@
     "bytes": 5725484,
     "duration": 357.816,
     "pubDate": "Thu, 06 Aug 2026 09:45:00 GMT"
+  },
+  {
+    "num": 75,
+    "slug": "sc-8-1",
+    "title": "Cowork for Scouts 24: Building a Shared Skill Library",
+    "description": "Every skill is a library asset first and a client deliverable second. Separating logic from context so an install takes an hour instead of a week, organising by function, versioning as you improve, and starting the library at client one.",
+    "file": "75-sc-8-1.mp3",
+    "bytes": 4608812,
+    "duration": 288.024,
+    "pubDate": "Thu, 06 Aug 2026 09:45:05 GMT"
   }
 ]
