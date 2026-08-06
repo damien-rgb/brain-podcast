@@ -528,5 +528,15 @@
     "bytes": 4762412,
     "duration": 297.624,
     "pubDate": "Thu, 06 Aug 2026 09:43:28 GMT"
+  },
+  {
+    "num": 54,
+    "slug": "sc-1-3",
+    "title": "Cowork for Scouts 3: What You Already Have and What Is Different",
+    "description": "Skill files, context design and workflow patterns transfer. API access, scheduling, hooks and slash commands do not. An honest map of what to repackage versus rebuild, plus the compounding advantage of community-built skills.",
+    "file": "54-sc-1-3.mp3",
+    "bytes": 4337708,
+    "duration": 271.08,
+    "pubDate": "Thu, 06 Aug 2026 09:43:33 GMT"
   }
 ]
