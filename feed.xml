@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:24:12 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -568,6 +568,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/50-lc-12.mp3" length="1946156" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/50-lc-12.mp3</guid>
       <itunes:duration>2:02</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 13: Going Further</title>
+      <description>Where this goes next: the brain system as the engine room where skills get built, the Ads to AI community, and the three things to do right now.</description>
+      <itunes:summary>Where this goes next: the brain system as the engine room where skills get built, the Ads to AI community, and the three things to do right now.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:24:12 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/51-lc-13.mp3" length="2180396" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/51-lc-13.mp3</guid>
+      <itunes:duration>2:16</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
