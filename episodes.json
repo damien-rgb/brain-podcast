@@ -368,5 +368,15 @@
     "bytes": 10980769,
     "duration": 686.22932,
     "pubDate": "Thu, 06 Aug 2026 07:32:30 GMT"
+  },
+  {
+    "num": 38,
+    "slug": "w38-the-expertise-curve",
+    "title": "Weekly 38: The Expertise Curve",
+    "description": "The real skill with AI right now is how fast you can tell whether the output is any good - and that depends on the expertise you already have. Mike's curve: deep expertise makes AI a force multiplier with tight error bars, no expertise leaves error bars so wide you cannot tell what you got, and the dangerous middle is where you can judge the output but not the plan. What to do at each point, why you never let it mark its own homework, and why the curve is per task, never per person.",
+    "file": "38-w38-the-expertise-curve.mp3",
+    "bytes": 15128596,
+    "duration": 945.472018,
+    "pubDate": "Thu, 06 Aug 2026 07:33:00 GMT"
   }
 ]
