@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:09 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -689,6 +689,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/61-sc-4-1.mp3" length="4623788" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/61-sc-4-1.mp3</guid>
       <itunes:duration>4:49</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 11: Writing for Someone Else Voice and Context</title>
+      <description>Voice is tone, terminology, naming and register, and none of it can be inferred - you have to ask. The questions to ask in discovery, how to embed the answers in the skill file, and what to do when the client voice is inconsistent.</description>
+      <itunes:summary>Voice is tone, terminology, naming and register, and none of it can be inferred - you have to ask. The questions to ask in discovery, how to embed the answers in the skill file, and what to do when the client voice is inconsistent.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:09 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/62-sc-4-2.mp3" length="4735916" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/62-sc-4-2.mp3</guid>
+      <itunes:duration>4:56</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
