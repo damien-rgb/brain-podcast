@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:24:09 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -557,6 +557,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/49-lc-11.mp3" length="2465324" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/49-lc-11.mp3</guid>
       <itunes:duration>2:34</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 12: Safety and Trust</title>
+      <description>What Cowork does well (everything it does shows up in the conversation) and where to be careful. Treat the output like work from a new team member, not a finished product.</description>
+      <itunes:summary>What Cowork does well (everything it does shows up in the conversation) and where to be careful. Treat the output like work from a new team member, not a finished product.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:24:09 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/50-lc-12.mp3" length="1946156" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/50-lc-12.mp3</guid>
+      <itunes:duration>2:02</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

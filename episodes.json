@@ -488,5 +488,15 @@
     "bytes": 2465324,
     "duration": 154.056,
     "pubDate": "Thu, 06 Aug 2026 09:24:06 GMT"
+  },
+  {
+    "num": 50,
+    "slug": "lc-12",
+    "title": "Learn Cowork 12: Safety and Trust",
+    "description": "What Cowork does well (everything it does shows up in the conversation) and where to be careful. Treat the output like work from a new team member, not a finished product.",
+    "file": "50-lc-12.mp3",
+    "bytes": 1946156,
+    "duration": 121.608,
+    "pubDate": "Thu, 06 Aug 2026 09:24:09 GMT"
   }
 ]
