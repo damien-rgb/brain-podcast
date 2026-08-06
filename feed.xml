@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:01 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -667,6 +667,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/59-sc-3-2.mp3" length="4777388" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/59-sc-3-2.mp3</guid>
       <itunes:duration>4:59</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 9: Prioritising Where to Start</title>
+      <description>The first build is a trust problem, not a technical one. Score candidates on repetition and risk, start at highest repetition and lowest risk, and sequence outward from there. Plus the question to ask when you genuinely cannot choose.</description>
+      <itunes:summary>The first build is a trust problem, not a technical one. Score candidates on repetition and risk, start at highest repetition and lowest risk, and sequence outward from there. Plus the question to ask when you genuinely cannot choose.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:01 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/60-sc-3-3.mp3" length="4634156" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/60-sc-3-3.mp3</guid>
+      <itunes:duration>4:50</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
