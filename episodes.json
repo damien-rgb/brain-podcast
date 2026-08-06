@@ -458,5 +458,15 @@
     "bytes": 2683052,
     "duration": 167.664,
     "pubDate": "Thu, 06 Aug 2026 09:23:56 GMT"
+  },
+  {
+    "num": 47,
+    "slug": "lc-09",
+    "title": "Learn Cowork 9: Installing a Skill",
+    "description": "Thirty seconds, start to finish: get the zip, open Customize, upload, use it. Plus the three failure modes and how to get past them.",
+    "file": "47-lc-09.mp3",
+    "bytes": 2162348,
+    "duration": 135.12,
+    "pubDate": "Thu, 06 Aug 2026 09:24:00 GMT"
   }
 ]

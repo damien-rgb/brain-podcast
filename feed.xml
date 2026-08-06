@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:24:00 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -524,6 +524,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/46-lc-08.mp3" length="2683052" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/46-lc-08.mp3</guid>
       <itunes:duration>2:48</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 9: Installing a Skill</title>
+      <description>Thirty seconds, start to finish: get the zip, open Customize, upload, use it. Plus the three failure modes and how to get past them.</description>
+      <itunes:summary>Thirty seconds, start to finish: get the zip, open Customize, upload, use it. Plus the three failure modes and how to get past them.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:24:00 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/47-lc-09.mp3" length="2162348" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/47-lc-09.mp3</guid>
+      <itunes:duration>2:15</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
