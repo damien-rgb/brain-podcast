@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:23:44 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -469,6 +469,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/41-lc-03.mp3" length="2106284" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/41-lc-03.mp3</guid>
       <itunes:duration>2:12</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 4: The Interface Tour</title>
+      <description>What you see before a conversation and what appears once you start one: the Progress, folder and Context panels. The simplest mental model for the whole interface.</description>
+      <itunes:summary>What you see before a conversation and what appears once you start one: the Progress, folder and Context panels. The simplest mental model for the whole interface.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:23:44 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/42-lc-04.mp3" length="2432684" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/42-lc-04.mp3</guid>
+      <itunes:duration>2:32</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
