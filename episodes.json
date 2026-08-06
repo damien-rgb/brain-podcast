@@ -628,5 +628,15 @@
     "bytes": 5332652,
     "duration": 333.264,
     "pubDate": "Thu, 06 Aug 2026 09:44:13 GMT"
+  },
+  {
+    "num": 64,
+    "slug": "sc-5-1",
+    "title": "Cowork for Scouts 13: Connecting to Tools via MCP",
+    "description": "MCP as a bridge between Cowork and the tools clients already use. The common agency connections, the four-step setup pattern, what to do when a client stack differs from yours, and handling API keys on least-privilege terms.",
+    "file": "64-sc-5-1.mp3",
+    "bytes": 5347628,
+    "duration": 334.2,
+    "pubDate": "Thu, 06 Aug 2026 09:44:17 GMT"
   }
 ]
