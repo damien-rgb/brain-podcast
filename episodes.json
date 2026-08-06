@@ -548,5 +548,15 @@
     "bytes": 5379116,
     "duration": 336.168,
     "pubDate": "Thu, 06 Aug 2026 09:43:37 GMT"
+  },
+  {
+    "num": 56,
+    "slug": "sc-2-1",
+    "title": "Cowork for Scouts 5: Cowork Orientation - The Trekker View",
+    "description": "A full walk of the interface through one lens: what will the person you hand this to actually see? Mode selector, working folder, skills panel, slash commands, scheduling, permissions and the two layers of instructions - each with the pre-configure tip that goes with it.",
+    "file": "56-sc-2-1.mp3",
+    "bytes": 10063916,
+    "duration": 628.968,
+    "pubDate": "Thu, 06 Aug 2026 09:43:41 GMT"
   }
 ]

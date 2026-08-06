@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:43:41 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -623,6 +623,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/55-sc-1-4.mp3" length="5379116" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/55-sc-1-4.mp3</guid>
       <itunes:duration>5:36</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 5: Cowork Orientation - The Trekker View</title>
+      <description>A full walk of the interface through one lens: what will the person you hand this to actually see? Mode selector, working folder, skills panel, slash commands, scheduling, permissions and the two layers of instructions - each with the pre-configure tip that goes with it.</description>
+      <itunes:summary>A full walk of the interface through one lens: what will the person you hand this to actually see? Mode selector, working folder, skills panel, slash commands, scheduling, permissions and the two layers of instructions - each with the pre-configure tip that goes with it.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:43:41 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/56-sc-2-1.mp3" length="10063916" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/56-sc-2-1.mp3</guid>
+      <itunes:duration>10:29</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
