@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:26 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -733,6 +733,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/65-sc-5-2.mp3" length="5856812" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/65-sc-5-2.mp3</guid>
       <itunes:duration>6:06</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 15: Testing Before Anyone Touches It</title>
+      <description>Test as if you will not be there to explain what went wrong. Five pre-handoff tests, three more for anything scheduled, what done actually means, and why the testing log is the step you should not skip when you are in a hurry.</description>
+      <itunes:summary>Test as if you will not be there to explain what went wrong. Five pre-handoff tests, three more for anything scheduled, what done actually means, and why the testing log is the step you should not skip when you are in a hurry.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:26 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/66-sc-5-3.mp3" length="5187116" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/66-sc-5-3.mp3</guid>
+      <itunes:duration>5:24</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

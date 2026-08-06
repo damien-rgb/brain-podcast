@@ -648,5 +648,15 @@
     "bytes": 5856812,
     "duration": 366.024,
     "pubDate": "Thu, 06 Aug 2026 09:44:22 GMT"
+  },
+  {
+    "num": 66,
+    "slug": "sc-5-3",
+    "title": "Cowork for Scouts 15: Testing Before Anyone Touches It",
+    "description": "Test as if you will not be there to explain what went wrong. Five pre-handoff tests, three more for anything scheduled, what done actually means, and why the testing log is the step you should not skip when you are in a hurry.",
+    "file": "66-sc-5-3.mp3",
+    "bytes": 5187116,
+    "duration": 324.168,
+    "pubDate": "Thu, 06 Aug 2026 09:44:26 GMT"
   }
 ]
