@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:43 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -777,6 +777,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/69-sc-6-3.mp3" length="5343788" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/69-sc-6-3.mp3</guid>
       <itunes:duration>5:34</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 19: Setting Up Global Instructions</title>
+      <description>The always-on context that shapes every session. Where to find it, the three things it must cover in under 300 words, a template to adapt, how to handle per-project context, and when to review it.</description>
+      <itunes:summary>The always-on context that shapes every session. Where to find it, the three things it must cover in under 300 words, a template to adapt, how to handle per-project context, and when to review it.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:43 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/70-sc-6-4.mp3" length="4111148" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/70-sc-6-4.mp3</guid>
+      <itunes:duration>4:17</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
