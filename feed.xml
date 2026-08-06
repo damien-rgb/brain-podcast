@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 07:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:23:33 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -436,6 +436,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/38-w38-the-expertise-curve.mp3" length="15128596" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/38-w38-the-expertise-curve.mp3</guid>
       <itunes:duration>15:45</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 1: What is Cowork?</title>
+      <description>Cowork is a desktop app that works directly with the files on your computer. Not texting a smart friend, but having them sit at your desk and do the work. What it is, what you need, and why it is not a browser tab.</description>
+      <itunes:summary>Cowork is a desktop app that works directly with the files on your computer. Not texting a smart friend, but having them sit at your desk and do the work. What it is, what you need, and why it is not a browser tab.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:23:33 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/39-lc-01.mp3" length="2253356" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/39-lc-01.mp3</guid>
+      <itunes:duration>2:21</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
