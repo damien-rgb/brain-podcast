@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:23:40 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -458,6 +458,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/40-lc-02.mp3" length="2977196" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/40-lc-02.mp3</guid>
       <itunes:duration>3:06</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 3: Installing Cowork</title>
+      <description>Download, install, sign in, and what you see when you land. Plus the three things that usually go wrong on a first install and how to fix each one.</description>
+      <itunes:summary>Download, install, sign in, and what you see when you land. Plus the three things that usually go wrong on a first install and how to fix each one.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:23:40 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/41-lc-03.mp3" length="2106284" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/41-lc-03.mp3</guid>
+      <itunes:duration>2:12</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
