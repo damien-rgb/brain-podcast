@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:13 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -700,6 +700,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/62-sc-4-2.mp3" length="4735916" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/62-sc-4-2.mp3</guid>
       <itunes:duration>4:56</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 12: Skills, Context, and How Trekkers Trigger Work</title>
+      <description>Three places instructions can live - skills, folder instructions, global instructions - and the decision rule for each. Why focused skills beat one big one, and how several skills combine without you orchestrating anything.</description>
+      <itunes:summary>Three places instructions can live - skills, folder instructions, global instructions - and the decision rule for each. Why focused skills beat one big one, and how several skills combine without you orchestrating anything.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:13 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/63-sc-4-3.mp3" length="5332652" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/63-sc-4-3.mp3</guid>
+      <itunes:duration>5:33</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
