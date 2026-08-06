@@ -508,5 +508,15 @@
     "bytes": 2180396,
     "duration": 136.248,
     "pubDate": "Thu, 06 Aug 2026 09:24:12 GMT"
+  },
+  {
+    "num": 52,
+    "slug": "sc-1-1",
+    "title": "Cowork for Scouts 1: What This Course Is and Who It Is For",
+    "description": "Not a Claude Code refresher - what comes next. Taking what you have built and making it useful to people who will never open a terminal: your team, and your clients. The two audiences, and the four things you will be able to do by the end.",
+    "file": "52-sc-1-1.mp3",
+    "bytes": 3281324,
+    "duration": 205.056,
+    "pubDate": "Thu, 06 Aug 2026 09:43:25 GMT"
   }
 ]
