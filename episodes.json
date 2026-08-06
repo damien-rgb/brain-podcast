@@ -388,5 +388,15 @@
     "bytes": 2253356,
     "duration": 140.808,
     "pubDate": "Thu, 06 Aug 2026 09:23:33 GMT"
+  },
+  {
+    "num": 40,
+    "slug": "lc-02",
+    "title": "Learn Cowork 2: How It Is Different from ChatGPT",
+    "description": "The copy-paste problem, and the bigger shift underneath it: ChatGPT answers questions, Cowork does tasks. A side-by-side of the two, and why they are not competing.",
+    "file": "40-lc-02.mp3",
+    "bytes": 2977196,
+    "duration": 186.048,
+    "pubDate": "Thu, 06 Aug 2026 09:23:37 GMT"
   }
 ]
