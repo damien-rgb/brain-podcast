@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:56 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -810,6 +810,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/72-sc-7-2.mp3" length="5073452" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/72-sc-7-2.mp3</guid>
       <itunes:duration>5:17</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 22: The Demo That Creates the Moment</title>
+      <description>You are not explaining how Cowork works - you are creating one moment where the client thinks I need this. Set up the before, pick the right workflow, rehearse it, and then say almost nothing while it runs.</description>
+      <itunes:summary>You are not explaining how Cowork works - you are creating one moment where the client thinks I need this. Set up the before, pick the right workflow, rehearse it, and then say almost nothing while it runs.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:56 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/73-sc-7-3.mp3" length="5803052" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/73-sc-7-3.mp3</guid>
+      <itunes:duration>6:03</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
