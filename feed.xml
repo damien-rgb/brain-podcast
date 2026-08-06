@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:43:53 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -645,6 +645,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/57-sc-2-2.mp3" length="4833836" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/57-sc-2-2.mp3</guid>
       <itunes:duration>5:02</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 7: Running a Discovery Session</title>
+      <description>Twenty to thirty minutes to find how someone actually works. How to frame it so nobody gets defensive, the five questions, the follow-up that turns vague answers into a buildable workflow, and how to take spec notes rather than meeting notes.</description>
+      <itunes:summary>Twenty to thirty minutes to find how someone actually works. How to frame it so nobody gets defensive, the five questions, the follow-up that turns vague answers into a buildable workflow, and how to take spec notes rather than meeting notes.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:43:53 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/58-sc-3-1.mp3" length="4052780" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/58-sc-3-1.mp3</guid>
+      <itunes:duration>4:13</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
