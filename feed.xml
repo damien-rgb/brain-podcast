@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:30 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -744,6 +744,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/66-sc-5-3.mp3" length="5187116" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/66-sc-5-3.mp3</guid>
       <itunes:duration>5:24</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 16: Setting Up Cowork for a Trekker</title>
+      <description>Make the right thing the only obvious thing. Folder structure, which three to five skills to surface, descriptions that both Claude and the Trekker can read, and the checklist that says a workspace is finished rather than in progress.</description>
+      <itunes:summary>Make the right thing the only obvious thing. Folder structure, which three to five skills to surface, descriptions that both Claude and the Trekker can read, and the checklist that says a workspace is finished rather than in progress.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:30 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/67-sc-6-1.mp3" length="4905260" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/67-sc-6-1.mp3</guid>
+      <itunes:duration>5:07</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
