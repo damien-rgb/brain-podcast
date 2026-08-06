@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:24:06 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -546,6 +546,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/48-lc-10.mp3" length="2957228" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/48-lc-10.mp3</guid>
       <itunes:duration>3:05</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 11: Connectors and the Real World</title>
+      <description>Connectors link Cowork to Gmail, Calendar and Drive, which is where it stops being helpful with documents and starts running parts of your business. Start with reading, then go active.</description>
+      <itunes:summary>Connectors link Cowork to Gmail, Calendar and Drive, which is where it stops being helpful with documents and starts running parts of your business. Start with reading, then go active.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:24:06 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/49-lc-11.mp3" length="2465324" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/49-lc-11.mp3</guid>
+      <itunes:duration>2:34</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

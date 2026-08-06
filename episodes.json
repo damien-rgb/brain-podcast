@@ -478,5 +478,15 @@
     "bytes": 2957228,
     "duration": 184.8,
     "pubDate": "Thu, 06 Aug 2026 09:24:03 GMT"
+  },
+  {
+    "num": 49,
+    "slug": "lc-11",
+    "title": "Learn Cowork 11: Connectors and the Real World",
+    "description": "Connectors link Cowork to Gmail, Calendar and Drive, which is where it stops being helpful with documents and starts running parts of your business. Start with reading, then go active.",
+    "file": "49-lc-11.mp3",
+    "bytes": 2465324,
+    "duration": 154.056,
+    "pubDate": "Thu, 06 Aug 2026 09:24:06 GMT"
   }
 ]
