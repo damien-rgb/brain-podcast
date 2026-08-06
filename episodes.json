@@ -638,5 +638,15 @@
     "bytes": 5347628,
     "duration": 334.2,
     "pubDate": "Thu, 06 Aug 2026 09:44:17 GMT"
+  },
+  {
+    "num": 65,
+    "slug": "sc-5-2",
+    "title": "Cowork for Scouts 14: Scheduling - Automations That Run Themselves",
+    "description": "Cowork schedules natively, with one limitation you must communicate: tasks only run while the machine is awake and the app is open. What to schedule, what to keep manual, and the four checks that prove a schedule is actually running.",
+    "file": "65-sc-5-2.mp3",
+    "bytes": 5856812,
+    "duration": 366.024,
+    "pubDate": "Thu, 06 Aug 2026 09:44:22 GMT"
   }
 ]
