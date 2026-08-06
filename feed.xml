@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:23:47 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -480,6 +480,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/42-lc-04.mp3" length="2432684" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/42-lc-04.mp3</guid>
       <itunes:duration>2:32</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Learn Cowork 5: Giving Cowork a File</title>
+      <description>The two ways in - pointing it at a folder, or dragging a file into the chat - and the kinds of requests that work well once it has something to hold.</description>
+      <itunes:summary>The two ways in - pointing it at a folder, or dragging a file into the chat - and the kinds of requests that work well once it has something to hold.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:23:47 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/43-lc-05.mp3" length="1752620" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/43-lc-05.mp3</guid>
+      <itunes:duration>1:50</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
