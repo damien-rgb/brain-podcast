@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:45:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:45:14 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -854,6 +854,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/76-sc-8-2.mp3" length="4489772" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/76-sc-8-2.mp3</guid>
       <itunes:duration>4:41</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 26: Becoming the Embedded AI Partner</title>
+      <description>The consultant who sets it up and moves on is replaceable. The person who knows how the business thinks is not. What embedded means in practice, a monthly and quarterly structure, and why it is better for both sides.</description>
+      <itunes:summary>The consultant who sets it up and moves on is replaceable. The person who knows how the business thinks is not. What embedded means in practice, a monthly and quarterly structure, and why it is better for both sides.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:45:14 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/77-sc-8-3.mp3" length="5167916" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/77-sc-8-3.mp3</guid>
+      <itunes:duration>5:23</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
