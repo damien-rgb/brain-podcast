@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:44:46 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -788,6 +788,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/70-sc-6-4.mp3" length="4111148" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/70-sc-6-4.mp3</guid>
       <itunes:duration>4:17</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cowork for Scouts 20: Setting Up Cowork for a Client</title>
+      <description>Same tool, same build, different relationship. Structured discovery, formal access requests, a higher polish bar, changes that go through a process, and what to say when the client asks to edit skills themselves.</description>
+      <itunes:summary>Same tool, same build, different relationship. Structured discovery, formal access requests, a higher polish bar, changes that go through a process, and what to say when the client asks to edit skills themselves.</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 09:44:46 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/71-sc-7-1.mp3" length="4504748" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/71-sc-7-1.mp3</guid>
+      <itunes:duration>4:42</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
