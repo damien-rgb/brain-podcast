@@ -838,5 +838,15 @@
     "bytes": 8833580,
     "duration": 552.072,
     "pubDate": "Mon, 17 Aug 2026 09:08:18 GMT"
+  },
+  {
+    "num": 85,
+    "slug": "oracle-anatomy-07",
+    "title": "The Anatomy of an Oracle 7: Cards, the Randomiser With a Memory",
+    "description": "A die has no memory and a deck does, and everything interesting follows from that. Depletion as inevitability with unknown timing, salting a prepared card into a random deck, removal as campaign history, and why cards laid on a table are external memory rather than something you maintain in your head. Includes the arithmetic that converts a set of thirty-six-entry tables into a thirty-six card deck.",
+    "file": "85-oracle-anatomy-07.mp3",
+    "bytes": 9306284,
+    "duration": 581.616,
+    "pubDate": "Mon, 17 Aug 2026 09:08:24 GMT"
   }
 ]

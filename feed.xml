@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:08:24 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -942,6 +942,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/84-oracle-anatomy-06.mp3" length="8833580" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/84-oracle-anatomy-06.mp3</guid>
       <itunes:duration>9:12</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 7: Cards, the Randomiser With a Memory</title>
+      <description>A die has no memory and a deck does, and everything interesting follows from that. Depletion as inevitability with unknown timing, salting a prepared card into a random deck, removal as campaign history, and why cards laid on a table are external memory rather than something you maintain in your head. Includes the arithmetic that converts a set of thirty-six-entry tables into a thirty-six card deck.</description>
+      <itunes:summary>A die has no memory and a deck does, and everything interesting follows from that. Depletion as inevitability with unknown timing, salting a prepared card into a random deck, removal as campaign history, and why cards laid on a table are external memory rather than something you maintain in your head. Includes the arithmetic that converts a set of thirty-six-entry tables into a thirty-six card deck.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:08:24 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/85-oracle-anatomy-07.mp3" length="9306284" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/85-oracle-anatomy-07.mp3</guid>
+      <itunes:duration>9:42</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
