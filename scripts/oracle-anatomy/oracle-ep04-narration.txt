@@ -1,0 +1,85 @@
+The Anatomy of an Oracle. Episode four: anomalies and interpretation.
+
+We have built a complete oracle. A real question, stated odds, something random in the hand, and a graded ladder of answers. That works, and it will serve you for years.
+
+But it has a shape, and the shape is a limitation: everything so far is reactive. It answers what you thought to ask. And that is not what a referee does. A referee volunteers. A referee says, before you have asked anything, that you hear something behind you in the passage.
+
+This episode is about the two parts that let a pile of tables volunteer. Part five, the anomaly trigger. And part six, the interpretation layer, which turns out to contain a trap that matters enormously to some people and not at all to others.
+
+Part five first, and it is one of the most elegant pieces of design in the hobby.
+
+The trick is to attach a second meaning to a special result. And in practice, almost universally, that special result is doubles. Matched dice. You were rolling anyway, you were reading the answer anyway, and if the two dice happen to match, something else fires as well.
+
+That is the elegance. It costs no extra roll, no extra time, and no extra decision. It rides along for free on a gesture you were already making. And because it is unpredictable, it produces the thing that reactive oracles cannot: the world speaking up when it wasn't asked.
+
+There are several flavours, and they are meaningfully different.
+
+The Mythic version is the most direct. If you roll doubles, and the doubles are low enough compared to a certain number we will discuss next episode, a random event fires. Something happens now. It might have nothing to do with your question. You then work out what it was, using tools we will get to in a moment.
+
+The Ironsworn version treats a match as a signal for an extreme result or a narrative twist. Same idea, lighter touch, and it comes with a design principle attached that I will come back to at the end.
+
+Then there is the version I find genuinely clever, which is what the Recluse engine does. If you roll doubles in Recluse, the answer is not yes and it is not no. The answer is that your question was unanswerable. You failed to account for something, and it is now your job to work out what you failed to account for.
+
+Think about what that does. Every other anomaly adds content to the world. This one attacks your premise. It does not tell you that you were wrong about the answer, it tells you that you were wrong about the question, and that is a far more unsettling and more useful thing for a machine to be able to say to you. It is the closest any of these tools come to a referee raising an eyebrow.
+
+And then there is the physical version, where doubles mean you draw a token out of a bag, cashing in whatever good or bad luck has accumulated. Same trigger, but instead of generating an event it releases stored pressure.
+
+Whatever the flavour, the job is the same: this is the part that stops your oracle being a question-answering machine and starts it being a participant. If you have a simple oracle and you want to add exactly one thing to it, add this. It is one line of house rule. Doubles means something unasked-for happens.
+
+Now part six, the interpretation layer.
+
+Because a lot of your questions are not yes or no questions at all. What does he want? What is in the box? Why is the village empty? Who did this? There is no ladder that answers those, and if you have no tool for them you will end up answering them yourself, which drags you back towards authorship.
+
+The standard solution is a table of words. You roll, you get one or two words, and you build the answer out of them. These get called spark tables, or meaning tables, or focus tables, and they are everywhere.
+
+And here is the trap, and it took me a correction to see it properly. These tables look like one thing. They are two things, and the two behave in opposite ways depending on who is using them.
+
+The first species is abstract concept pairs. You roll two words and they are ideas. Guard and debt. Altruistic and bounty. Scholarly and recognition. Your job is to synthesise those two ideas into something concrete that fits your situation.
+
+For a lot of people this is magic, and it is worth understanding why, because the mechanism is real and slightly uncomfortable.
+
+Two things are happening in your head. The first is apophenia, which is the human compulsion to find patterns in unrelated things. We do it constantly and we cannot switch it off. The second is confirmation bias: you already have a theory about the reeve, and when two random words land, you read them in the direction of the theory you already had.
+
+So the words arrive, they collide with a story you are already holding, and they feel destined. People describe this as uncanny, and they are not exaggerating, it does feel uncanny.
+
+And you are not being fooled. You wrote the answer. The table gave you two words. But the sensation of discovery is completely real, and it is doing the emotional work that a referee would otherwise do, which is exactly what we wanted from episode one.
+
+Designers who understand this tune the word lists to the genre, which sharpens the effect considerably. A table of courtly intrigue words, in a game about courtly intrigue, feels like prophecy. The same mechanic with generic nouns feels like homework. The target is a narrow band: vague enough to fit anything, evocative enough to fire.
+
+Now the second species, and this is where it matters who is listening.
+
+The second species is concrete sensory entries. Not ideas. Things. A missing finger. A gold tooth. Wine stains. A limp. Nine fingers. The kind of thing you find in Maze Rats or Knave.
+
+And the crucial difference is this: with concrete entries, there is no synthesis step. The word already is the image. You do not have to work out what it looks like, because it is a description of what it looks like. Combining several of them is mechanical assembly. It is Lego. Concrete parts that stack.
+
+So: same mechanic, two species, and here is the sting.
+
+If you can visualise, abstract pairs are wonderful, because you have a mental image to bridge the gap with, and bridging that gap is a pleasurable creative act.
+
+If you cannot visualise, abstract pairs are a wall. Not harder. Not slower. A wall, because the bridging step requires a faculty that is not available, and no amount of effort or practice supplies it. Guard and debt is not a prompt, it is a homework assignment with no answer key.
+
+And this is not a small population, and it is not a small effect. Whole systems that are universally recommended as the best in the field turn out to be, for those people, precisely the wrong tool, while being genuinely excellent tools.
+
+So the useful question about any product is no longer "does it have spark tables". Everything has spark tables. The question is: which species?
+
+For the concrete species there is a rule that generates good entries reliably, and it is worth memorising. Show the symptom, not the diagnosis.
+
+Do not write "seeking redemption". That is a diagnosis. It is a summary of an interior state and it requires you to imagine what it manifests as. Write the symptom instead: scarred hands, a penitent's robe, a list of names carried everywhere. Same character. Now visible.
+
+And there is a test that settles any individual entry in about a second. Can you draw it in five seconds? A broken nose, yes. A hive mind, no. Seeking redemption, no. A gold tooth, yes.
+
+Anything that fails that test is going to cost you time at the table every single time it comes up, and the cost compounds, because you meet it mid-scene when you had momentum.
+
+Now, one last thing, and it is a warning rather than a mechanism, because parts five and six are where people most often overdo it.
+
+Ironsworn states a principle outright which I think is the best single piece of advice in this whole field. Oracles should be the spice, not the main course. Ask a question or two, decide what it means, and move on.
+
+Because it is very tempting, once you own an anomaly trigger and a set of spark tables, to use them constantly. To roll for everything. To hunt twists. And what you get is not a richer game, it is dice administration. The session becomes a sequence of lookups and interpretations with no play in between, and it is exhausting rather than exciting.
+
+The oracle does not tell. It nudges. It shifts the balance a little and hands the scene back to you. And the scene is the thing. Most of your evening should be play, with occasional consultation, and if that ratio inverts you will burn out on the tool and wrongly blame the hobby.
+
+So where we are. We have a system that answers questions with texture, and that occasionally interrupts you unprompted, and that can handle questions with no yes or no answer, provided you feed it the right species of word list.
+
+What it still cannot do is manage the shape of an evening. It has no sense of rising tension, and no answer to the moment when everything has been resolved and you are sitting there with nothing pressing.
+
+That is the next episode, and it is the one that saves campaigns.

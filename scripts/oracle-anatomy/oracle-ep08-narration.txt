@@ -1,0 +1,113 @@
+The Anatomy of an Oracle. Episode eight: aphantasia, and designing your own.
+
+There is an assumption baked into almost every random table ever printed, and it is invisible because nearly everyone who writes tables shares it. The assumption is that when you read a word, a picture appears.
+
+So a table entry can be a concept, a mood, an abstraction, a pairing of two ideas, and the writer expects that you will read it and something will assemble itself in your mind's eye, and then you will describe what you see.
+
+For a substantial number of people, nothing appears. Not a faint picture. Nothing. The mind's eye is not dim, it is absent.
+
+That is aphantasia, and the first thing to say about it is what it is not. It is not a lack of imagination, and it is not a lack of creativity. People with aphantasia write novels, design games, and run excellent tables. Memory works. Emotion works. Spatial reasoning often works fine. Language works completely. What is missing is specifically the voluntary generation of visual imagery.
+
+And that matters here because a very specific step in a very specific mechanic depends on it. Not the whole hobby. One step.
+
+Let me name the step precisely, because precision is the useful thing.
+
+Go back to episode four, and the two species of interpretation table.
+
+Species one is abstract concept pairs. You roll two ideas, and your job is to synthesise them into something concrete. And the synthesis happens visually for most people. The two words arrive, something forms, and you describe the thing that formed. That forming is the step.
+
+If the forming does not happen, there is no fallback. You are left with two abstract nouns and an instruction to combine them, and no mechanism to combine them with. It is not slower. It is not harder. It is a wall, and effort does not help, and practice does not help, because the missing thing is not a skill.
+
+Species two is concrete sensory entries. A missing finger. A gold tooth. A limp. Wine stains on a sleeve.
+
+And here there is no synthesis step, because the entry already is the description. You do not have to work out what it looks like. Somebody else did that, and wrote down the result, and handed it to you.
+
+So the whole distinction reduces to one question about any table: has the visual work been done for me, or am I expected to do it?
+
+Two rules follow, and between them they generate good entries reliably.
+
+The first rule is: show the symptom, not the diagnosis.
+
+Seeking redemption is a diagnosis. It is a summary of an interior state, and it requires you to work out how that state would manifest before you can use it. Scarred hands, a penitent's robe, a list of names carried everywhere: those are symptoms. Same character. Now usable.
+
+Harbouring a secret is a diagnosis. Checks his pocket watch constantly, asks too many questions, will not meet your eye: symptoms.
+
+Notice that the symptoms are also better writing. This is not an accessibility compromise. Concrete detail is stronger than abstract summary for everybody, which is why it is the first thing taught in every writing course. The aphantasia constraint just makes it non-negotiable rather than merely advisable.
+
+The second rule is: assembly, not synthesis.
+
+Design the parts so they stack, like bricks, rather than requiring you to blend them. A role, plus a visible detail, plus a behaviour, plus a want. Each one concrete. Each one independently usable. The combination happens mechanically, in language, not in a mental image.
+
+And there is a test that settles any individual entry in about a second. Can you draw it in five seconds? A broken nose, yes. A gold tooth, yes. A hive mind, no. Quantum fluctuations, no. Ethical dilemmas, absolutely not.
+
+Now the insight I think is the most valuable in this whole episode, and it took someone actually experiencing this to notice it, because it is invisible from outside.
+
+Process and content fail differently.
+
+Structured procedure is fine. Excellent, in fact. Clear phases, explicit quantities, defined outputs, do this then this then this. That is not visual work, that is sequencing, and if anything a strongly structured system is easier to work with, not harder.
+
+It is the table contents where abstraction kills.
+
+Which gives you a precise and rather liberating strategy for dealing with published systems. There are systems out there with superb procedures and abstract tables. And the answer is not to reject them. The answer is: keep the procedure, replace the tables.
+
+Take the phase structure, the ordering, the "first establish the people, then the factions, then the terrain" scaffolding. That part is a gift. Then throw out its word lists and substitute concrete ones.
+
+And notice that this is exactly what the ten parts let you do deliberately rather than by feel. Once you can see that a system is nine parts good procedure and one part wrong-species table, you can perform surgery on it instead of bouncing off it and concluding it was not for you.
+
+Which brings me back to cards, because there is a claim here worth making plainly.
+
+Cards are the most aphantasia-proof format available, and the reason is almost silly. There is no imagination step at all. You are looking at the thing. It is on the table, in front of your eyes, and it stays there.
+
+Compare that to a die roll, where the result exists for a second and then lives only in your head, alongside everything else you are already holding. Cards move the whole scene out of working memory and onto the table, where it can be looked at rather than maintained.
+
+But there is a caveat about symbols and icons, and it is a genuine one.
+
+An icon is perfectly concrete as an image. You can see it, trivially, because it is printed there. But an icon is often ambiguous as a prompt. A skull might mean death, or poison, or danger, or undead, or a warning, or a grave. Working out which one is interpretation, and interpretation is the step we are trying to avoid.
+
+So the right use of icons is as collision material sitting alongside concrete text. Not as the load-bearing content. The words carry the meaning; the symbols knock against them and occasionally produce something you would not have arrived at. That is a real and valuable function. It just is not the same function as the text.
+
+Now, what actually exists out there, and the honest answer is: not much, and almost nothing on purpose.
+
+There are systems that work by accident. Maze Rats, and Knave second edition, both have concrete sensory entries throughout. Not because anyone was thinking about aphantasia, but because they were optimising for speed at the table, and it turns out that optimising for speed produces the same result. If you want the entry usable in three seconds, it has to already be the image.
+
+There is at least one product that states the goal outright, a hexcrawl called Data Hunter, built to not rely on oracles, keywords or player imagination. Worth looking at as a design specimen more than as a game.
+
+And then there is a large category that is actively the wrong shape. Mythic's meaning tables. Concept-pair tables generally. And, unfortunately, most of the popular card decks, which are almost all built on abstract pairs. They are excellent tools. They are the wrong tools, for this, and no amount of goodwill changes that.
+
+So yes, there is a gap in the market, and it is a wide one.
+
+Let me close by turning all of this into something you can act on.
+
+You now have ten parts. The way to use them is as a diagnostic. Do not ask "which oracle should I buy". Ask "which job is currently not being done", and let the symptom tell you.
+
+If you are rolling constantly and nothing moves, that is part one. Your questions are dead. Fix the questions before you buy anything.
+
+If the world keeps contradicting itself, that is part two. You are not stating odds before you roll.
+
+If answers feel flat and factual, that is part four. You are rolling for yes and no instead of rolling for a rung.
+
+If nothing ever surprises you and every event is one you suspected, that is part five. Add one line: doubles means something unasked-for happens.
+
+If open questions stall you, that is part six, and check the species before you buy.
+
+If sessions feel like they are all the same weight, that is part seven. You need a number that goes up when things go badly.
+
+If you keep stopping because you have run out of ideas mid-evening, that is part nine. Write six things on a card. Ninety seconds.
+
+And if individual sessions are good but nothing accumulates, that is part ten, and it is the session six problem, and the fix is two numbered lists.
+
+Four traps to avoid, briefly, because each of them is somebody's abandoned campaign.
+
+Do not slot-machine. Rolling for everything turns play into administration. Oracles are the spice, not the main course.
+
+Do not ask about the wrong side of the line. World facing unknowns to the dice. Character facing choices are yours, always.
+
+Do not reroll because you did not like it. The moment results are optional the whole apparatus becomes decoration.
+
+And do not buy complexity that does not pay. If cross-referencing four charts to learn the weather is not making your evening better, it is making it worse. Most experienced solo players end up running a personal hybrid: one oracle, one set of concrete tables, one scene engine, a couple of lists. Not any product as written.
+
+Which is the note I want to end the series on.
+
+The referee was never magic. The referee was a box holding things you did not know, doing about ten separable jobs, none of which required a personality or a gift. And once you can name the ten, you stop being a customer for oracle products and start being someone who can look at any of them, work out in half a minute what it does and what it leaves undone, and take only the parts you are actually missing.
+
+That is the whole thing. Thanks for listening.

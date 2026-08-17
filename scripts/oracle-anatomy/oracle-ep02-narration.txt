@@ -1,0 +1,81 @@
+The Anatomy of an Oracle. Episode two: the question, the odds, and the randomiser.
+
+Last time we established what an oracle is for. It is a prosthetic for the missing person at the table. A machine for not knowing. And I said that a referee does about ten separable jobs, and that every oracle ever published is a different selection from those ten.
+
+This episode covers the first three, and these three are different from the other seven, because these three are not optional. Every oracle that has ever worked, from a free half-page on the internet to a two hundred page emulator, contains all three of these. If a tool is missing one, it does not function. So it is worth going slowly.
+
+Part one is the question.
+
+And I want to be honest with you up front: this is not a mechanic. There is no dice notation for it and no product sells it to you. It is a skill, and it is the skill that decides whether everything else in the toolkit works or sits in a drawer. The oracle can only ever be as good as the question you put to it. You can own the best emulator in the hobby and get nothing out of it, because you are asking it the wrong things.
+
+So here is what a bad question looks like.
+
+Bruna is standing at a door. You ask: does the door open?
+
+That is a dead question, and here is the test that shows you why. Ask yourself: would the two answers actually change what I do next? And they don't. If it opens, she goes through. If it is stuck, she forces it, or she finds the window, and either way you are in the same room in ninety seconds narrating roughly the same scene. You have spent a roll to buy nothing. Do that four or five times in a row and the whole session feels like admin, and you will conclude the oracle is boring, when in fact the oracle was answering exactly what you asked.
+
+Now the live version. Same door. You ask: has somebody already been here?
+
+Both answers change everything. Yes, and Bruna is following someone, which means she is behind, which means there is a clock she didn't know about. No, and she is first, which means whatever is inside is intact, and whatever happens next is hers to cause. Two genuinely different evenings hang off that one roll.
+
+So the test for a question is not "do I know the answer". The test is: do both answers lead somewhere different?
+
+There is a second rule about questions which is even more important, and it is the one that solves most beginner trouble. Here it is.
+
+Ask about the world. Decide about your character.
+
+Whether Bruna draws her blade is not a question for the oracle. It is never a question for the oracle. That is your decision, it is the entire reason you are sitting there, and handing it to the dice hollows out the only part of the game that was actually yours. But whether the man across the firelight is already reaching for his, that you genuinely do not know, and that is precisely the oracle's business.
+
+Character facing choices are yours. World facing unknowns go to the dice. Get that line wrong in one direction and you have a puppet you are watching. Get it wrong in the other and you have a novel you are writing. Get it right and you have a game.
+
+One last thing about questions, and it is subtle. You cannot ask what is in the box until there is a box. If you sit down with a blank page and immediately start interrogating the oracle, you get noise, because there is no established situation for the answers to attach to. You need a place, a person, an intention. Ten seconds of your own decision-making, first. Then the questions have somewhere to land. The oracle is a responder, not a starter motor.
+
+Part two is the odds.
+
+Before you roll, you say how likely you think it is. Out loud, or on paper, but before, and this ordering matters more than anything else in this section.
+
+Mechanically this is the simplest thing imaginable. In the cheapest possible version you roll two dice and take the higher one if it seems likely, or the lower one if it doesn't. That's it. That is a complete implementation of part two, and it costs you nothing.
+
+At the other end, the Mythic emulator gives you a grid. Down one side is a band of likelihood ratings, running from something that is nearly certain through to something that is nearly impossible, and you cross reference against a second number we will come to in a later episode. More apparatus, same job.
+
+And there is a middle version I like a lot, which is what a tool called Alone and the Odd does. It has one target number, and that number drifts as the situation gets more dangerous. So the likelihood dial and the tension dial are the same object, which is elegant, and we will come back to why in episode five.
+
+But whichever version you use, the function is identical, and the function is this: part two is where everything you have already established gets to weigh in.
+
+Because think about what happens without it. You establish that the bandit camp was abandoned three days ago. You ask if there are guards. You flip a coin. And half the time the answer is yes, and the world you built has just been contradicted by a fifty per cent chance. Do that repeatedly and you stop believing the fiction, and once you stop believing the fiction there is no game left, because belief was the product.
+
+The odds step is your judgement, made explicit, and it is the reason an oracle produces a coherent world rather than noise. It is not a limitation on the randomness. It is the thing that makes the randomness mean something.
+
+Now, the ordering. I said you declare before you roll, and here is why that is not fussiness.
+
+If you look at the result first and then decide how likely it was, you are not playing any more. You are rationalising. And you will do it without noticing, because you want the story to go a particular way, and the human brain is extremely good at deciding after the fact that the outcome it wanted was the probable one all along. Declaring first is a small piece of self-honesty and it is load bearing. It is the difference between consulting an oracle and negotiating with one.
+
+Part three is the randomiser. The actual object in your hand.
+
+This gets treated as a non-decision, and it isn't. The physical thing changes how play feels, and there are three real options.
+
+Dice first, because dice dominate this field and there are good reasons. Every roll is independent, there is no setup, they cost nothing, and you already own them. But the genuinely clever thing that dice do, and which people underuse, is that several dice of different colours can be read as separate channels from one throw.
+
+So you pick up three dice, say a red, a blue, and a black. The red is the answer. The blue tells you whether there is a twist. The black tells you what the twist is about. One throw, three pieces of information, and no extra time spent. The Motif engine does something very similar with three dice read left to right: answer, then degree, then a flavour die. Damien's own three-dice oracle from the Dungeon Dive does the same with answer, twist polarity, and twist focus.
+
+That is a lot of machinery for one gesture, and it is why the six sided die remains the workhorse of this whole hobby.
+
+Then cards, which get their own episode later because there is far more to say than fits here, but the headline is this. A die has no memory. Every roll is the first roll. A deck of cards knows what it has already given you, and almost everything interesting about card oracles falls out of that single property.
+
+And then tokens in a bag, which is the rarest and in some ways the most interesting. You put coloured tokens in a bag, good ones and bad ones, and they accumulate as you play. You draw when something triggers it. The bag's contents are the campaign's mood, physically, in your hand, and you can feel it getting worse. That is a state variable you can hold, which is episode five's topic arriving early through the back door.
+
+So let us put all three parts together in one pass, because they happen in about four seconds at a real table.
+
+Bruna is at the ford. I want to know if it is still passable, because it rained for two days and that matters. That's part one, and it passes the test: if it is passable she crosses tonight, if it isn't she is looking for a bridge in the dark, and those are different evenings.
+
+Now part two. It rained hard, and this is a shallow crossing, so I think probably not. I say that out loud before I touch anything. Unlikely.
+
+And part three. Two dice, take the lower, because I called it unlikely.
+
+Four seconds, and I have a fact about the world that I did not author.
+
+And here is the thing worth sitting with. Those three parts alone are a complete, working oracle. Nothing else in this series is mandatory. You could stop here, use two dice and a stated likelihood, and play solo for years. Thousands of people do exactly that.
+
+But you would be leaving something on the table, and it is the single biggest idea in this whole field, and almost everybody misunderstands it. It is not the yes. It is not the no.
+
+That's next episode.

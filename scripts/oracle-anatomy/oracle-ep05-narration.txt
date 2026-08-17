@@ -1,0 +1,77 @@
+The Anatomy of an Oracle. Episode five: pacing. The state variable and the scene engine.
+
+This episode is about the two parts that most one page oracles leave out, and it is the episode I would point at if someone told me their solo campaign had gone stale. Because when a solo game dies, it very rarely dies from a lack of ideas. It dies from a lack of pacing, and those two things feel identical from the inside.
+
+Let me describe the failure first, because you may recognise it.
+
+You have a good oracle. Questions are getting answered with texture. Occasionally something unasked-for happens. The world is coherent. And around session six or seven, something flattens. Not badly. Nothing is broken. It is just that every session feels like the same weight as the last one, and you find yourself less keen to sit down, and you cannot point at what is wrong because nothing is wrong.
+
+Here is what has happened, and it is uncomfortable.
+
+Left entirely to yourself, you keep things comfortable. Not deliberately. You are the author, and authors protect what they are fond of, and you are fond of this character, and there is no adversary in the room whose job is to make her life difficult. So the screw never really tightens. Tension plateaus at a pleasant, survivable level and stays there, and pleasant and survivable is death for a story.
+
+At a real table, the referee solves this without thinking about it, because they are watching the shape of the evening, and they can feel when it has gone slack, and they have both the authority and the mild sadism required to do something about it.
+
+That is a job. It is separable. And it splits into two parts.
+
+Part seven is the state variable.
+
+One number. It persists between scenes. You adjust it at the end of every scene. And it changes how the entire rest of the oracle behaves.
+
+The best known version is the Chaos Factor in Mythic. It runs from one to nine, and it starts in the middle. At the end of each scene you ask a single question: was my character more in control of events at the end of that scene, or less? If less, the number goes up. If more, it goes down.
+
+And that one number then reaches into everything. It skews the odds against you when it is high. It widens the anomaly trigger, so unasked-for events fire more often. And it destabilises your scenes, which we will get to in a moment.
+
+So what you have built, with one integer on a piece of paper, is a dial for how hard the world is currently pushing back.
+
+There are other implementations and they are worth knowing because they show you the range. Alone and the Odd, which I mentioned in episode two, uses a single target number that drifts as the stakes rise, so the likelihood dial and the pressure dial are the same object, which is beautifully economical. The CRGE emulator uses a counter that pushes results towards twists the longer things stay stable, so stability itself becomes the thing that generates instability. And there is the physical version, the bag of tokens, where good and bad outcomes accumulate as objects and you can literally feel the campaign souring in your hand.
+
+Different apparatus. Same job.
+
+Now, why does this matter so much more than it looks like it should? Because it moves escalation out of your willpower and into the mechanism.
+
+That is the whole value. You do not have to remember to make things worse. You do not have to be in the mood to be cruel to your own character. The number goes up because the scene went badly, and the next scene is harder because the number went up, and none of that required you to decide anything. You have delegated the referee's cruelty, which is the specific piece of the referee's job that an author cannot perform on themselves.
+
+And, just as importantly, it works in the other direction. When your character takes control, when she wins something real, the number comes down and the world eases off. Which means relief is earned rather than granted, and earned relief is the thing that makes the hard parts worth playing through. A game that only escalates is as monotonous as a game that never does.
+
+Part nine is the scene engine. And I am taking it out of order, deliberately, because it belongs here with pacing rather than sitting on its own.
+
+Everything we have discussed so far operates inside a scene. You are in the tavern, you are at the ford, you are in the passage, and the oracle helps you find out what is true in that place. Fine.
+
+But at some point the scene ends. The thing is resolved. Nothing is pressing. And you are sitting with a notebook and no obvious next move.
+
+This is the dead end, and it kills more solo campaigns than anything else. Not a bad session. Just an evening where you put the dice down and never quite picked them up again, and then it was three weeks later.
+
+There are two good solutions and they work differently.
+
+The Mythic approach is to formalise your own expectations and then attack them. Before the next scene, you write down what you expect to happen. Then you test that expectation against the Chaos Factor. Roll above it, and you get the scene you expected. Roll at or below it, and the scene is either altered, meaning recognisable but wrong in some way, or interrupted, meaning something else entirely is happening instead, right now.
+
+Sit with what that does. Your own plans are systematically ambushed, at a rate that you do not control, which is set by how much trouble your character is currently in. When things are going well, you mostly get the scenes you planned. When things are going badly, you increasingly do not get to plan at all, which is exactly how it feels to be in real trouble.
+
+That is a remarkable amount of drama from one d10 roll and a number you were tracking anyway.
+
+The second solution is lighter and I like it for a different reason. The One Page Solo Engine includes what it calls pacing moves and failure moves. These are simply lists you roll on when the game has gone slack. And the entries are deliberately modest: reveal a new detail, introduce a complication, bring back someone from earlier.
+
+That sounds almost too simple to matter. It matters enormously, and here is why. It converts "I have run out of ideas" from a session-ending event into a die roll. The dead end stops being a wall and becomes a prompt. And the psychological difference between those two things, at half past nine on a weeknight when you are tired, is the difference between playing and not playing.
+
+Now, a practical observation. Part nine is the part most commonly missing from one page oracles, and it is the part most worth adding yourself.
+
+Because you can add it yourself, cheaply. You do not need a product. Write six things on a card that could happen when nothing is happening. Someone arrives. Something is discovered missing. A deadline you had forgotten becomes urgent. Someone from earlier reappears with a problem. The weather turns and forces a decision. Something you left unresolved catches up with you.
+
+That is a scene engine. It took ninety seconds. And it is the single highest value ninety seconds you can spend on your own kit, because it addresses the specific failure that ends campaigns rather than the failure that annoys you mid-scene.
+
+Let me put parts seven and nine together, because in play they interlock and the interlock is the good bit.
+
+End of scene. Bruna got out of the wagon situation, but she got out badly, and she does not understand what she has walked into. So she was less in control at the end than at the start, and the number goes up.
+
+Next scene. I expect to reach the town and ask questions. I test it against the number, which is now higher than it was, so my expectation is more fragile than it was last time. It fails. Interrupt. I do not get the town.
+
+And notice: I did not decide that. I did not decide to make things harder, and I would not have, because I wanted the town scene, and I had a nice idea for it. The mechanism decided, using a number that went up because of something that had already happened, and the thing that had already happened was itself partly determined by dice.
+
+That is a referee. That is the job being done, by a number and a die, without anyone in the room choosing to be difficult.
+
+So where are we? We have questions, odds, a randomiser, a graded ladder, unprompted interruptions, interpretation for open questions, a tension dial, and something that decides where the next scene starts.
+
+What we do not yet have is a world that remembers. Everything so far generates the present. Nothing accumulates. And that is why simple oracles go flat around session six even when every individual session was good.
+
+Next episode: generators, and the cheapest, cleverest mechanic in the entire hobby.

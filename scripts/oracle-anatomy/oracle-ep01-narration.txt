@@ -1,0 +1,73 @@
+The Anatomy of an Oracle. Episode one: the missing person at the table.
+
+Here is the problem, stated as plainly as I can.
+
+It is nine o'clock in the evening. You have an hour. You want to play. There is nobody else in the house who plays, and there won't be tonight. So you sit down with a notebook, and a character, and you begin. Bruna walks into the village.
+
+And then you stop.
+
+You stop because you already know what is in the village. You put it there. Ten minutes ago you decided there was a shrine at the crossroads and a reeve who doesn't want visitors, and now your character is walking towards information you are already holding. You are the author, and you are also the audience, and the audience cannot be surprised by an author who is sitting in the same chair.
+
+That is the whole problem. Everything in this series is a response to it.
+
+Now, before we can talk about the solution, we need to be precise about what has actually gone missing. And the answer is not "a friend", and it is not "someone to talk to". Those things matter, but they are not the mechanical loss. The mechanical loss is much more specific than that, and once you see it clearly, every tool in this field suddenly makes sense.
+
+So think about what actually happens at an ordinary table, with an ordinary referee sitting behind a screen.
+
+You say: I want to look over the wall and see if the gate is guarded. And then something remarkable happens, which is so normal that nobody ever remarks on it. An answer comes back that you had no part in choosing. You didn't pick it. You couldn't have predicted it. It arrived from outside you.
+
+That gap, between what you intended and what the world said back, is where roleplaying actually lives. Not in the dice, not in the character sheet, not in the rules. In the gap. It is the reason you lean forward when you ask the question. It is the reason the answer is interesting even when it is a plain no.
+
+The referee, mechanically speaking, is a black box that holds information you are not allowed to have.
+
+That is the job. Strip away the voices and the jokes and the map behind the screen, and what is left is a sealed container of things you don't know, which opens a crack when you ask it something.
+
+So now take the referee away.
+
+The container is gone, and there is nothing holding information you don't have, because the only person left in the room is you, and you know everything. The gap closes. And when the gap closes, what you are doing is no longer playing. It is writing. Writing prose is a fine thing to do with an evening, and some people sit down deliberately to do exactly that, and they are not doing it wrong. But it is a different activity, with a different feeling, and if you sat down wanting to play, you will feel the difference within about four minutes. Most people who say solo roleplaying didn't work for them are describing this exact sensation without having words for it. They didn't lack imagination. They lacked a gap.
+
+An oracle re-opens the gap. Artificially, deliberately, and with dice or cards.
+
+That is the definition I want you to carry through the rest of this series, because it is more useful than any of the definitions you will find printed on the products themselves. An oracle is not a random number generator bolted onto a story. It is not a table of interesting words. It is a prosthetic for the missing person at the table. A machine for not knowing.
+
+And once you hold that definition, you get something valuable for free: you get a way of judging these tools that actually works.
+
+Because the way people normally sort them is by complexity. Simple oracles over here, complex ones over there, and an unspoken suggestion that complex is more serious and simple is for beginners. That sorting is nearly useless. It tells you how much reading you have to do. It tells you nothing about what the thing will do for you at the table on a Tuesday night.
+
+Here is the better question. A referee does not do one job. A referee does about ten separable jobs, and they are genuinely separable, and most people have never listed them because they never had to. And every oracle product that has ever been published is a different selection from those ten. Some take over three of them. Some take over all ten. None of them announce which, because the designers were solving their own problem and didn't think of it as a menu.
+
+So the useful question about any oracle is not "is this simple or complex". It is: which of the missing referee's jobs does this actually take over, and which is it quietly leaving with me?
+
+That question will save you money and it will save you a lot of frustration, because a very common failure looks like this. Someone buys a well-reviewed one-page oracle. It is genuinely good. They use it for three sessions and it works, and then somewhere around session six the whole thing goes flat, and they conclude they have run out of ideas, or that solo play is shallow. What has actually happened is that they bought a tool that took over four of the ten jobs, and the campaign has quietly starved for want of the other six. Nothing was wrong with the tool. It was answering questions beautifully and doing nothing whatsoever about continuity, and continuity is a separate job, done by a separate part, which nobody told them existed.
+
+Before we start on those parts, it is worth knowing how any of this came to exist, because the history explains the shape of everything that followed.
+
+People have been playing these games alone since before there was much of a hobby to play alone in. There was solo wargaming in the early nineteen seventies, before Dungeons and Dragons had properly arrived. There were solo dungeon rules published in nineteen seventy five. There was a solo adventure for Tunnels and Trolls in nineteen seventy six, which is, more or less, the great grandparent of every choose your own adventure book you ever picked up. And then through the nineteen eighties came the gamebooks, the ones with numbered paragraphs where you turn to section eighty four and roll to see whether you survive.
+
+Those things worked. They are still fun. But look at what they are, structurally. Somebody else wrote the surprises down in advance, and you walk through them. Which means two things follow, inevitably. First, you can only play the adventures somebody has bothered to write in that format, so your options are whatever is in print. And second, and this is the fatal one: each of them is finite. You can exhaust it. Once you know what is in section eighty four, section eighty four is dead, and eventually the whole book is dead, because a written surprise is a consumable.
+
+Then, in two thousand and three, something changed the shape of the whole field. A tool called the Mythic Game Master Emulator was published, and it proposed something that sounds obvious the moment you hear it and was not obvious at all beforehand. Instead of somebody writing down the answers in advance, what if you asked a question, out loud, in the moment, and used dice to determine the answer?
+
+Two consequences, and both are enormous.
+
+The first is that you could now play any game solo. Not the ones written for it. Any of them. The game you already own, the setting you already love, the character you already made. The oracle sits alongside the rules rather than replacing them.
+
+The second is that it does not run out. A written module is a consumable, but a question and a die is a generator. It is not that it has a very large number of surprises in it. It is that it has no number at all, because the surprises are produced at the moment of asking, from whatever situation you happen to be in, which is a situation that has never existed before.
+
+Prep also collapses to nothing, which sounds like a convenience and is actually the thing that makes solo play survive contact with a real life. You do not build anything in advance. You open a notebook, and you are playing inside a minute.
+
+Everything published since is a variation on that idea. More than twenty years of variations now, some of them one page, some of them two hundred pages, and every one of them a different selection from the same ten jobs.
+
+So here is where we are going.
+
+Over the next several episodes I am going to take those ten parts one at a time, in order, from the outside in. We will start with the three that are absolutely mandatory, the ones present in even the smallest free oracle on the internet, and I will show you why the fourth part, which is where almost all of the actual power lives, is the one that people consistently misunderstand. It is not the yes or the no. It never was.
+
+Then we will go up through the optional layers. The one that lets the world speak without being asked. The one that handles questions with no yes or no answer, which turns out to split into two species that look identical and behave in opposite ways. The one that gives the whole system a mood which changes as you play. The one that answers "the evening has gone slack, where does the next scene even start", which is the single most common way a solo campaign dies. And the one that produces continuity, callbacks, and the feeling of a plot tightening around you, and which is, I promise you, a numbered list and a die, and nothing more than that.
+
+There will be an episode on cards specifically, because a deck can do several things a die physically cannot, for one reason: a die has no memory and a deck does.
+
+And there will be a last episode on what to do if you cannot picture any of this in your head, because the entire hobby writes its tables on the assumption that you can, and that assumption is worth taking apart.
+
+For now, one idea to sit with. The referee was never magic. The referee was a box holding things you didn't know. That is a job description, not a personality, and a job description is something you can build a machine for.
+
+Next episode: the question, the odds, and the randomiser. The three parts you cannot do without.

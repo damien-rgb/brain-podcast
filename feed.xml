@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:34:14 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -964,6 +964,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/86-oracle-anatomy-08.mp3" length="10250156" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/86-oracle-anatomy-08.mp3</guid>
       <itunes:duration>10:41</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 39: Organising Your To-Do Items</title>
+      <description>Mike had 70 items scattered across projects and the Workbench and couldn&apos;t tell what mattered. The fix: one home per to-do (a markdown file in the project folder), two layers per item (a headline short enough to judge at a glance, detail underneath for Claude), and a machine-readable priority line so code can sort without burning tokens. The bigger idea - use as much AI as you need and as little as you can get away with. Anything if-this-then-that should be a script.</description>
+      <itunes:summary>Mike had 70 items scattered across projects and the Workbench and couldn&apos;t tell what mattered. The fix: one home per to-do (a markdown file in the project folder), two layers per item (a headline short enough to judge at a glance, detail underneath for Claude), and a machine-readable priority line so code can sort without burning tokens. The bigger idea - use as much AI as you need and as little as you can get away with. Anything if-this-then-that should be a script.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:34:14 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3" length="21750741" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3</guid>
+      <itunes:duration>22:39</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

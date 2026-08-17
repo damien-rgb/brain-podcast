@@ -1,0 +1,87 @@
+The Anatomy of an Oracle. Episode seven: cards. The randomiser with a memory.
+
+Most card oracles are dice wearing a costume. You draw a card instead of rolling, you read a number or a suit off it, and functionally nothing has changed. That is a missed opportunity on a fairly large scale, because a deck of cards can do several things a die physically cannot, and all of them come from one property.
+
+Here it is. A die has no memory. Every roll is the first roll. Roll a six, and the chance of another six is unchanged, because the die does not know and cannot know.
+
+A deck knows what it has already given you.
+
+Everything in this episode falls out of that sentence.
+
+But before the properties, let me deal with the practical problem that makes cards worth considering in the first place, because it is not a theoretical concern. It is the reason prepared referees stop using their own tables mid-session.
+
+A table costs four steps. Roll the dice. Find the right table. Find the right row. Read it.
+
+Four steps sounds trivial written down. At a live table, with momentum, four steps is enough to break the moment. You can feel it happen: the scene is moving, you need a detail, you look down, you leaf through, and by the time you look up the energy has gone. Which is why people build beautiful table collections and then improvise instead.
+
+A card costs one step. Draw. Read.
+
+And a hand of cards costs zero. Because if you are holding four cards, the randomness already happened, minutes ago, offline. At the table you are simply choosing between options you already have in your hand. That is a different creative act from taking whatever a die gave you, and it is much faster, and it is arguably better, because choosing between four given options is exactly the kind of bounded creative task we established back in episode three that human brains are good at.
+
+Right. The properties. Three groups.
+
+Group one is depletion. The deck remembers.
+
+The first property is guarantee. Every entry in the deck will appear within one pass through it. Dice never guarantee anything. You can roll a d20 forty times and never see a seven.
+
+Which means you can do something no table can do. You can put the thing you are dreading into the deck, and know for certain that it lands, without knowing when. Inevitability with unknown timing.
+
+I want to dwell on that, because I think it is the most useful pacing property available to any referee tool, and tables simply cannot provide it. It is the mechanical form of dread. Not "something bad might happen", which is weak, but "the thing is in here, it is coming, and it might be the next card". Every horror film you have ever enjoyed runs on that distinction.
+
+Second property: no clumps. Dice produce runs. The same result four times, or the result you need never arriving. A deck cannot. Distribution is enforced by construction rather than hoped for. If you have ever abandoned a random encounter table because it gave you wolves three nights running, that is the problem this solves.
+
+Third property: rising certainty. As the deck thins, what remains becomes knowable. You do not have to calculate it, you can feel it. And this produces tension entirely on its own, with no rule attached.
+
+The board game world worked this out decades ago and the RPG world has barely noticed. Pandemic uses its deck as the clock. There is no rule anywhere in Pandemic that says "become tense". Players simply see the deck getting thin, and urgency arrives. That is a state variable, of the kind we discussed in episode five, emerging free from the physical object rather than being tracked as a number.
+
+Even better is Arkham Horror, the card game, which runs two opposing decks. One advances when you succeed. One advances when you stall. Two clocks racing each other, and dread grows out of the gap between them. Nobody, as far as I can find, has ported that to a referee tool, and it would transfer almost unchanged. A progress deck and a doom deck, and the entire pacing job handled by which one is moving.
+
+Fourth property: the reshuffle is an event. When the deck runs out, that is a natural boundary. An act break. The end of a chapter, or a season, or a leg of a journey. Free structure, at no design cost, from a thing you had to do anyway.
+
+Group two is composition. You can edit the deck.
+
+First: salting. Write a card for something you have prepared, and shuffle it in.
+
+This is, I think, the single most valuable trick in the entire category, and tables are structurally incapable of it. Prepared content, random timing. You get to author something properly, with care, and then genuinely not know when it arrives. That combination is otherwise unavailable to a solo player. You either know when things happen, or you did not write them. Salting gives you both.
+
+Second: removal as history. Take a card out permanently when something is spent, or dead, or burnt down. The deck's composition becomes a record of your campaign. And there is a lovely consequence: a shrinking deck means the world genuinely narrows as you use it up, which is what a long campaign should feel like and almost never does.
+
+Third: curation. Build tonight's deck for tonight. Pull the coastal cards, add the winter ones. You would never rewrite a table for a single session. You would happily sort a deck in ninety seconds.
+
+Group three is physicality, and this is where cards stop being merely clever and start being, for some people, decisively better.
+
+First: many channels per draw. A card can carry dozens of independent entries. There is a well known product called the GameMaster's Apprentice which puts fourteen separate randomisers on every card. One draw, and whatever question you turn out to have, the answer is on the card in front of you.
+
+Second, which I mentioned earlier: a hand removes lookup entirely.
+
+Third, and this is the big one. Cards stay where you put them.
+
+A dice result vanishes the moment you pick the dice up. It exists only in your head, and you have to hold it there while also holding the scene, the character, the situation, and what you were about to do. Everything is in working memory, and working memory is small and leaky.
+
+A card laid on the table is external memory that you can look at. Lay out four cards and the scene is in front of you, permanently, at a glance, for as long as you need it. You are not maintaining it. You are reading it.
+
+If you happen to be someone who does not form mental images, this is not a minor convenience. It is close to the whole ballgame, and we will come back to it properly next episode.
+
+Fourth: position carries meaning. A spread has slots. Left to right. Near and far. Cause, thing, consequence. Past, present, coming. Layout becomes a second information channel, and crucially it is a spatial channel rather than a visual one.
+
+Now the honest trade, because I do not want to oversell this.
+
+Cards need shuffling, which is slower than picking up a die. They cost real money to produce, where a table costs a sheet of paper. And they cannot do probability curves. No bell curve. No rolling two dice and taking the middle. No making one outcome twice as likely as another without physically duplicating cards.
+
+So here is the trade, stated cleanly: a deck gives you breadth per draw, and a table gives you depth per axis.
+
+Which brings me to a piece of arithmetic that I think is the most useful thing in this episode, because it tells you how to convert one into the other.
+
+A d66 table has thirty six entries. You roll two dice, read them as a pair, and get one of thirty six results. That is the standard workhorse table size across this whole hobby.
+
+Now. Build thirty six cards. Give each card one entry from every table you own.
+
+Drawing a single card is now mathematically identical to rolling d66 on every one of those tables at once. Same content. Same distribution. Lookup deleted.
+
+And because of depletion, thirty six draws will show you every entry on every table exactly once, which means the deck self-balances in a way that repeated dice rolls never do.
+
+So if you have a spreadsheet where each column is a table of thirty six things, you already have the deck. Each row is a card. That is the entire conversion, and the content is the hard part, and the content is already done.
+
+One genuine design problem to flag, because it bites immediately. Your tables will not all be the same size. Thirty six entry tables fit a thirty six card deck perfectly. A list of ninety nine names does not. You have three options: put three name fragments on each card, which gets you a hundred and eight slots; trim the list to thirty six; or give names their own separate deck. Decide early, because it changes the card layout, and layout is the expensive thing to change.
+
+Last episode is about the thing I keep gesturing at. What all of this looks like if you cannot picture any of it, and how to design your own kit from the ten parts.

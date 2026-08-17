@@ -1,0 +1,77 @@
+The Anatomy of an Oracle. Episode six: generators, and where continuity comes from.
+
+Two parts this episode. One of them is the obvious workhorse that everybody owns. The other is the cleverest and cheapest mechanic in the entire hobby, and hardly anybody talks about it.
+
+Part eight is generators.
+
+And I should be precise about what these are, because they get shelved next to oracles and they do a different job. An oracle answers "is it so". A generator answers "what is it".
+
+Who is this person. What is this room. What is the weather. What is in the chest. What does this faction want. Where does this road go.
+
+Strictly, that means they are not oracles at all. They do not hold information you are not allowed to have, they produce material on demand. But they serve the same ultimate purpose, which is worth naming: an oracle stops you knowing too much, and a generator stops you having to invent from nothing while simultaneously trying to play.
+
+Those are different problems and they need different tools. If your complaint is "I cannot be surprised", a generator will not help you. If your complaint is "an unnamed stranger just walked in and I have gone blank", a generator is exactly the fix.
+
+Now, there is a sub-species here that is worth calling out, because it represents genuinely good design thinking: the specialist emulator. A generator built for one specific recurring disaster.
+
+The best example is a tool called UNE, the Universal NPC Emulator, and it exists for one reason. There is a specific moment where solo play collapses more reliably than any other, and it is not combat and it is not travel. It is this: somebody starts talking to you and you have no idea what they want.
+
+That moment is uniquely bad because it demands three things simultaneously. You have to invent a person, work out their attitude to you, and then improvise dialogue for them, all while remaining in your own character. At a real table the referee does all of that in the gap between two sentences. Alone, it is a cliff edge.
+
+So UNE builds you a bearing towards the player, a motivation, and a reason to be in the scene, in a few rolls. It does not write the conversation. It gives you enough that the conversation becomes possible.
+
+The general lesson is worth extracting: if you keep stalling at the same specific moment, that is not a character flaw, it is a missing tool, and it is usually a small one.
+
+There is also a strategy worth knowing about here, which is a slightly ruthless one and I approve of it entirely. A game's tables and a game's rules are separable purchases.
+
+There are systems that are widely bought purely for their tables, by people with no intention of ever playing them. Knave, second edition, is the canonical example: enormously respected as a table collection, and plenty of people who own it play something else entirely. The Dungeon Dive describes buying a free game he actively did not rate, extracting its oracle pages, and binning the rest.
+
+That is a legitimate way to build a toolkit. You are not obliged to adopt a system to use its generators.
+
+Now, some craft on generators, because there are composition rules and they are not obvious.
+
+First, three or four axes is the maximum. Two is thin but fast. Three is the sweet spot. Four is rich. Five or more overwhelms, and the reason is simply working memory: you can hold about four chunks in your head at once, and past that you have to write it down, and writing it down breaks the moment you were trying to preserve.
+
+Second, one table answers one question, and you must never mix. An appearance table contains only things you can see. A behaviour table contains only things people do. The instant you put a personality trait into an appearance table, both tables become harder to combine, because you no longer know what slot you are filling.
+
+Third, and this one is subtle, every generator needs an anchor. One table that provides the core identity, which everything else modifies. For a person it is their role. For a creature it is the body. For a place it is what kind of place it is.
+
+Here is the test for whether you have got the anchor right. Take it away and see if the result still means anything. Lanky, mutters to himself, wants revenge. Who is that? It is nobody, it is a set of adjectives floating in space. Now add the anchor: a smuggler who is lanky, mutters to himself, and wants revenge. Suddenly it is a person you could put in a scene tonight.
+
+Fourth, write your generator as a sentence with blanks in it. A blank role who looks blank, does blank, and wants blank. The reason to do this is that the sentence tells you what grammatical form each table has to be. If your role table has verbs in it, the sentence will not parse, and unparseable results are slow results.
+
+Right. Part ten, and this is the good one.
+
+Part ten is memory. And it consists of two numbered lists that you keep as you play. One list of open plot threads. One list of people you have met.
+
+That is it. That is the entire mechanic. It sounds like bookkeeping, it sounds like the boring bit, and it is the single highest value thing in this series relative to its cost.
+
+Here is why.
+
+Remember part five, the anomaly trigger. Doubles come up, something unasked-for fires. Now: what fires?
+
+If your oracle has no memory, it invents. You roll on a table and get a stranger, a new problem, a fresh complication out of nowhere. And that is fine, once. But do it repeatedly and your campaign becomes a sequence of unrelated incidents. Individually good scenes that never accumulate into anything. A random walk.
+
+But if you are keeping those two lists, the anomaly trigger can point into them.
+
+So doubles come up, and instead of inventing, the oracle reaches back into your own established material and pulls out entry four on the characters list, which turns out to be the toll keeper you met two sessions ago and had entirely forgotten about. And now he is here. And you have to work out why.
+
+Think about what that produces. It is a feedback loop. Randomness aimed back at your own history. Which means everything that surfaces is something you already planted, and the result reads as foreshadowing paying off. Callbacks landing. Loose ends tightening. A plot closing around your character.
+
+And nobody wrote that plot. There is no plot. There is a numbered list and a die.
+
+I find this genuinely remarkable, and I think it is the strongest single argument that these tools are doing something more interesting than random content generation. Because that experience, the feeling that a story is converging, is supposed to be the product of authorial intent. It is what we praise novelists for. And it turns out you can manufacture it with two lists and a d10.
+
+The corollary is the diagnosis I promised you three episodes ago. If your solo game is producing good individual sessions that somehow do not add up, you almost certainly do not have part ten. That is the session six problem. Nothing was wrong with your oracle. It had no memory, so nothing could accumulate, and a story is precisely the thing that accumulates.
+
+And the fix costs you a page in a notebook.
+
+A practical note on keeping the lists, because there is a failure mode. Keep them short and keep them numbered. If your threads list has thirty entries you will never roll into anything meaningful, because everything is diluted, and you will stop maintaining it. Ten is plenty. Close threads when they resolve, and cross people off when they are dead or gone. A living list of ten things you actually care about is enormously more powerful than an exhaustive record of everything that ever happened.
+
+And one more thing. Both lists are also useful without the dice. When you are stuck at the start of a session, reading your own threads list is often enough. Not as a mechanic, just as a reminder of what is unresolved, which is another way of saying: a reminder of what your character wants and what is standing in the way.
+
+So we now have all ten parts. Questions, odds, randomiser, ladder, anomaly, interpretation, state variable, generators, scene engine, memory.
+
+And that is a complete referee. Not a good one, exactly, and not a warm one, but every separable job that the person behind the screen was doing, accounted for, in a form you can hold.
+
+Next episode is about doing all of this with cards instead of dice, and it is not a cosmetic change. Because a die has no memory, and a deck does, and that one property unlocks several things dice physically cannot do.

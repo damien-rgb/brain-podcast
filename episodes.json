@@ -858,5 +858,15 @@
     "bytes": 10250156,
     "duration": 640.608,
     "pubDate": "Mon, 17 Aug 2026 09:08:29 GMT"
+  },
+  {
+    "num": 87,
+    "slug": "w39-organising-your-to-do-items",
+    "title": "Weekly 39: Organising Your To-Do Items",
+    "description": "Mike had 70 items scattered across projects and the Workbench and couldn't tell what mattered. The fix: one home per to-do (a markdown file in the project folder), two layers per item (a headline short enough to judge at a glance, detail underneath for Claude), and a machine-readable priority line so code can sort without burning tokens. The bigger idea - use as much AI as you need and as little as you can get away with. Anything if-this-then-that should be a script.",
+    "file": "87-w39-organising-your-to-do-items.mp3",
+    "bytes": 21750741,
+    "duration": 1359.36,
+    "pubDate": "Mon, 17 Aug 2026 09:34:14 GMT"
   }
 ]
