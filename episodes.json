@@ -818,5 +818,15 @@
     "bytes": 9453740,
     "duration": 590.832,
     "pubDate": "Mon, 17 Aug 2026 09:06:55 GMT"
+  },
+  {
+    "num": 83,
+    "slug": "oracle-anatomy-05",
+    "title": "The Anatomy of an Oracle 5: Pacing, State Variables and the Scene Engine",
+    "description": "The episode that saves campaigns. Why solo games plateau from comfort rather than lack of ideas, how one persistent number moves escalation out of your willpower and into the mechanism, and how to solve the dead end that ends more solo campaigns than anything else. Includes a ninety-second scene engine you can build yourself.",
+    "file": "83-oracle-anatomy-05.mp3",
+    "bytes": 9047852,
+    "duration": 565.464,
+    "pubDate": "Mon, 17 Aug 2026 09:07:04 GMT"
   }
 ]

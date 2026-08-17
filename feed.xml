@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:07:04 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -920,6 +920,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/82-oracle-anatomy-04.mp3" length="9453740" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/82-oracle-anatomy-04.mp3</guid>
       <itunes:duration>9:51</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 5: Pacing, State Variables and the Scene Engine</title>
+      <description>The episode that saves campaigns. Why solo games plateau from comfort rather than lack of ideas, how one persistent number moves escalation out of your willpower and into the mechanism, and how to solve the dead end that ends more solo campaigns than anything else. Includes a ninety-second scene engine you can build yourself.</description>
+      <itunes:summary>The episode that saves campaigns. Why solo games plateau from comfort rather than lack of ideas, how one persistent number moves escalation out of your willpower and into the mechanism, and how to solve the dead end that ends more solo campaigns than anything else. Includes a ninety-second scene engine you can build yourself.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:07:04 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/83-oracle-anatomy-05.mp3" length="9047852" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/83-oracle-anatomy-05.mp3</guid>
+      <itunes:duration>9:25</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
