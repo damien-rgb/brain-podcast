@@ -908,5 +908,15 @@
     "bytes": 69406866,
     "duration": 4337.855986,
     "pubDate": "Mon, 17 Aug 2026 13:21:51 GMT"
+  },
+  {
+    "num": 92,
+    "slug": "qa-2026-07",
+    "title": "Monthly Q&A: July 2026",
+    "description": "The Brain Inbox app starts work the moment you save a note, and the new Playable Audio skill turns any note or transcript into a private podcast feed you listen to with the screen off - this is the call that led to your feed. Ask Your Brain (the MCP server) gives the brain direct access to member content, transcripts and audio. Agency Brain out of beta with a no-setup team-member role. Then the Fable playbook: default to Opus for speed and cost, save Fable for planning, code review and orchestration.",
+    "url": "https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-07-july-qa.mp3",
+    "bytes": 58870533,
+    "duration": 3679.338685,
+    "pubDate": "Mon, 17 Aug 2026 13:22:07 GMT"
   }
 ]
