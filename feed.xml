@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:35:29 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -997,6 +997,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3" length="35743597" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3</guid>
       <itunes:duration>37:14</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 42: How the Content Board Works</title>
+      <description>The flow behind the Workbench content Kanban, in more detail than you wanted. Five columns that are five folders, so dragging a card physically moves the markdown file. Ideas harvested overnight and scored out of 100 (threshold pushed from 70 to 85, because 25 ideas means reading none). Dragging to Draft spawns a colour-tinted terminal. Then the QA stack that accreted over time - scaffolding scan, reader&apos;s-eyes check, six separate evals - and rules written from the diff between what it wrote and what Mike changed.</description>
+      <itunes:summary>The flow behind the Workbench content Kanban, in more detail than you wanted. Five columns that are five folders, so dragging a card physically moves the markdown file. Ideas harvested overnight and scored out of 100 (threshold pushed from 70 to 85, because 25 ideas means reading none). Dragging to Draft spawns a colour-tinted terminal. Then the QA stack that accreted over time - scaffolding scan, reader&apos;s-eyes check, six separate evals - and rules written from the diff between what it wrote and what Mike changed.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:35:29 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3" length="17827777" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3</guid>
+      <itunes:duration>18:34</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

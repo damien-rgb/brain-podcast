@@ -888,5 +888,15 @@
     "bytes": 35743597,
     "duration": 2233.898685,
     "pubDate": "Mon, 17 Aug 2026 09:35:01 GMT"
+  },
+  {
+    "num": 90,
+    "slug": "w42-how-the-content-board-works",
+    "title": "Weekly 42: How the Content Board Works",
+    "description": "The flow behind the Workbench content Kanban, in more detail than you wanted. Five columns that are five folders, so dragging a card physically moves the markdown file. Ideas harvested overnight and scored out of 100 (threshold pushed from 70 to 85, because 25 ideas means reading none). Dragging to Draft spawns a colour-tinted terminal. Then the QA stack that accreted over time - scaffolding scan, reader's-eyes check, six separate evals - and rules written from the diff between what it wrote and what Mike changed.",
+    "file": "90-w42-how-the-content-board-works.mp3",
+    "bytes": 17827777,
+    "duration": 1114.163084,
+    "pubDate": "Mon, 17 Aug 2026 09:35:29 GMT"
   }
 ]
