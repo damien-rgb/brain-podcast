@@ -848,5 +848,15 @@
     "bytes": 9306284,
     "duration": 581.616,
     "pubDate": "Mon, 17 Aug 2026 09:08:24 GMT"
+  },
+  {
+    "num": 86,
+    "slug": "oracle-anatomy-08",
+    "title": "The Anatomy of an Oracle 8: Aphantasia, and Designing Your Own",
+    "description": "The assumption baked into almost every random table ever printed, and what happens when it does not hold. Show the symptom not the diagnosis, assembly rather than synthesis, and the insight that process and content fail differently, so you can keep a system's procedure and replace its tables. Ends with a diagnostic: match the symptom to the missing part, and the four traps that end campaigns.",
+    "file": "86-oracle-anatomy-08.mp3",
+    "bytes": 10250156,
+    "duration": 640.608,
+    "pubDate": "Mon, 17 Aug 2026 09:08:29 GMT"
   }
 ]

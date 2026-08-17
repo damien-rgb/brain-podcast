@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:08:29 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -953,6 +953,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/85-oracle-anatomy-07.mp3" length="9306284" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/85-oracle-anatomy-07.mp3</guid>
       <itunes:duration>9:42</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 8: Aphantasia, and Designing Your Own</title>
+      <description>The assumption baked into almost every random table ever printed, and what happens when it does not hold. Show the symptom not the diagnosis, assembly rather than synthesis, and the insight that process and content fail differently, so you can keep a system&apos;s procedure and replace its tables. Ends with a diagnostic: match the symptom to the missing part, and the four traps that end campaigns.</description>
+      <itunes:summary>The assumption baked into almost every random table ever printed, and what happens when it does not hold. Show the symptom not the diagnosis, assembly rather than synthesis, and the insight that process and content fail differently, so you can keep a system&apos;s procedure and replace its tables. Ends with a diagnostic: match the symptom to the missing part, and the four traps that end campaigns.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:08:29 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/86-oracle-anatomy-08.mp3" length="10250156" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/86-oracle-anatomy-08.mp3</guid>
+      <itunes:duration>10:41</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
