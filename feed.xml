@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:37:05 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -37,8 +37,8 @@
       <description>Mike&apos;s new daily stand-up skill turns your morning Google Ads check into a little team of analysts: seven analysts run every campaign, then a bull-and-bear growth-vs-efficiency debate goes to a strategist for the final call, and you rate each recommendation so it learns your judgment.</description>
       <itunes:summary>Mike&apos;s new daily stand-up skill turns your morning Google Ads check into a little team of analysts: seven analysts run every campaign, then a bull-and-bear growth-vs-efficiency debate goes to a strategist for the final call, and you rate each recommendation so it learns your judgment.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:17:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/02-w36-the-daily-stand-up.mp3" length="10625086" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/02-w36-the-daily-stand-up.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w36-the-daily-stand-up.mp3" length="10625086" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w36-the-daily-stand-up.mp3</guid>
       <itunes:duration>11:04</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -48,8 +48,8 @@
       <description>Where you put an instruction matters more than the wording. A tour of Claude Code&apos;s toolkit - CLAUDE.md for facts, skills for runbooks, rules for edges, hooks for must-always-happen, subagents for side-quests - and the three questions that pick the right one.</description>
       <itunes:summary>Where you put an instruction matters more than the wording. A tour of Claude Code&apos;s toolkit - CLAUDE.md for facts, skills for runbooks, rules for edges, hooks for must-always-happen, subagents for side-quests - and the three questions that pick the right one.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:16:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/03-w35-how-to-make-claude-code-more-useful.mp3" length="15999205" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/03-w35-how-to-make-claude-code-more-useful.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w35-make-claude-code-more-useful.mp3" length="15999205" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w35-make-claude-code-more-useful.mp3</guid>
       <itunes:duration>16:40</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -59,8 +59,8 @@
       <description>The engine room behind the brain: Cloudflare holds your API keys behind a wall, gives each person their own revocable token, hosts your sites, and runs a private tunnel to your Workbench - all on the free tier.</description>
       <itunes:summary>The engine room behind the brain: Cloudflare holds your API keys behind a wall, gives each person their own revocable token, hosts your sites, and runs a private tunnel to your Workbench - all on the free tier.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:15:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/04-w34-cloudflare-explained.mp3" length="12451986" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/04-w34-cloudflare-explained.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w34-cloudflare-explained.mp3" length="12451986" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w34-cloudflare-explained.mp3</guid>
       <itunes:duration>12:58</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -70,8 +70,8 @@
       <description>Stop prompting the work, build the loop that does it. The four questions that decide whether a loop is worth building, the four ingredients of a good one, and why you add training wheels before autopilot.</description>
       <itunes:summary>Stop prompting the work, build the loop that does it. The four questions that decide whether a loop is worth building, the four ingredients of a good one, and why you add training wheels before autopilot.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:14:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/05-w33-loop-engineering.mp3" length="17385158" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/05-w33-loop-engineering.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w33-loop-engineering.mp3" length="17385158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w33-loop-engineering.mp3</guid>
       <itunes:duration>18:07</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -81,8 +81,8 @@
       <description>The Workbench is where Mike now spends his day: click play on any project to spawn a fresh Claude session with full context, and right-click anything to change it in about two minutes.</description>
       <itunes:summary>The Workbench is where Mike now spends his day: click play on any project to spawn a fresh Claude session with full context, and right-click anything to change it in about two minutes.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:13:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/06-w32-meet-the-workbench.mp3" length="20570007" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/06-w32-meet-the-workbench.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w32-meet-the-workbench.mp3" length="20570007" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w32-meet-the-workbench.mp3</guid>
       <itunes:duration>21:26</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -92,8 +92,8 @@
       <description>Tools, Skills, Agents, Hooks, Teams and Workflows - the primitives inside Claude and when to reach for each, so you stop guessing whether something is a skill or an agent.</description>
       <itunes:summary>Tools, Skills, Agents, Hooks, Teams and Workflows - the primitives inside Claude and when to reach for each, so you stop guessing whether something is a skill or an agent.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:12:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/07-w31-ai-building-blocks-tools-skills-agents-and-workflows.mp3" length="27606350" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/07-w31-ai-building-blocks-tools-skills-agents-and-workflows.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w31-ai-building-blocks.mp3" length="27606350" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w31-ai-building-blocks.mp3</guid>
       <itunes:duration>28:45</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -103,8 +103,8 @@
       <description>Before asking for an artifact, ask: am I going to consume this or edit it? If you&apos;ll consume it, ask for HTML not Markdown - real clickable, zoomable infrastructure instead of a monospaced terminal.</description>
       <itunes:summary>Before asking for an artifact, ask: am I going to consume this or edit it? If you&apos;ll consume it, ask for HTML not Markdown - real clickable, zoomable infrastructure instead of a monospaced terminal.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:11:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/08-w30-use-html-to-build-better-ai.mp3" length="22741305" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/08-w30-use-html-to-build-better-ai.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w30-use-html-to-build-better-ai.mp3" length="22741305" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w30-use-html-to-build-better-ai.mp3</guid>
       <itunes:duration>23:41</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -114,8 +114,8 @@
       <description>Grab detailed &apos;design MD&apos; files, drop them in a folder, and have Claude build 14 one-page proof-of-concept sites from one brief in a single session. Brilliant for client landing-page proposals.</description>
       <itunes:summary>Grab detailed &apos;design MD&apos; files, drop them in a folder, and have Claude build 14 one-page proof-of-concept sites from one brief in a single session. Brilliant for client landing-page proposals.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:10:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/09-w29-different-design-styles.mp3" length="6499829" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/09-w29-different-design-styles.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w29-different-design-styles.mp3" length="6499829" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w29-different-design-styles.mp3</guid>
       <itunes:duration>6:46</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -125,8 +125,8 @@
       <description>Anthropic&apos;s AgentView shows every running Claude Code session on one screen with a &apos;needs input&apos; flag, so parallel work stops getting buried. Handy if you run lots of sessions, less so at two or three.</description>
       <itunes:summary>Anthropic&apos;s AgentView shows every running Claude Code session on one screen with a &apos;needs input&apos; flag, so parallel work stops getting buried. Handy if you run lots of sessions, less so at two or three.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:09:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/10-w28-agentview-from-anthropic.mp3" length="16393341" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/10-w28-agentview-from-anthropic.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w28-agentview-from-anthropic.mp3" length="16393341" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w28-agentview-from-anthropic.mp3</guid>
       <itunes:duration>17:05</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -136,8 +136,8 @@
       <description>Claude Channels lets a background session listen to your app and rewrite its own code: right-click any element, describe the change in plain English, and Claude edits the software. The customization layer is the point.</description>
       <itunes:summary>Claude Channels lets a background session listen to your app and rewrite its own code: right-click any element, describe the change in plain English, and Claude edits the software. The customization layer is the point.</itunes:summary>
       <pubDate>Tue, 21 Jul 2026 15:08:43 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/11-w27-right-click-customization-with-claude-channels.mp3" length="4958019" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/11-w27-right-click-customization-with-claude-channels.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w27-claude-channels.mp3" length="4958019" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w27-claude-channels.mp3</guid>
       <itunes:duration>7:18</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -422,8 +422,8 @@
       <description>How Mike feeds context into a session: screenshots pasted straight in, and files dragged into the chat (shift-drop) so the path lands in the prompt. The bit that should change how you organise your brain - dragging a file makes Claude read that folder&apos;s CLAUDE.md then walk up the tree, so the root file should hold only what belongs in every conversation.</description>
       <itunes:summary>How Mike feeds context into a session: screenshots pasted straight in, and files dragged into the chat (shift-drop) so the path lands in the prompt. The bit that should change how you organise your brain - dragging a file makes Claude read that folder&apos;s CLAUDE.md then walk up the tree, so the root file should hold only what belongs in every conversation.</itunes:summary>
       <pubDate>Thu, 06 Aug 2026 07:32:30 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/37-w37-adding-context-by-dragging-files.mp3" length="10980769" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/37-w37-adding-context-by-dragging-files.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w37-adding-context-by-dragging-files.mp3" length="10980769" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w37-adding-context-by-dragging-files.mp3</guid>
       <itunes:duration>11:26</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -433,8 +433,8 @@
       <description>The real skill with AI right now is how fast you can tell whether the output is any good - and that depends on the expertise you already have. Mike&apos;s curve: deep expertise makes AI a force multiplier with tight error bars, no expertise leaves error bars so wide you cannot tell what you got, and the dangerous middle is where you can judge the output but not the plan. What to do at each point, why you never let it mark its own homework, and why the curve is per task, never per person.</description>
       <itunes:summary>The real skill with AI right now is how fast you can tell whether the output is any good - and that depends on the expertise you already have. Mike&apos;s curve: deep expertise makes AI a force multiplier with tight error bars, no expertise leaves error bars so wide you cannot tell what you got, and the dangerous middle is where you can judge the output but not the plan. What to do at each point, why you never let it mark its own homework, and why the curve is per task, never per person.</itunes:summary>
       <pubDate>Thu, 06 Aug 2026 07:33:00 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/38-w38-the-expertise-curve.mp3" length="15128596" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/38-w38-the-expertise-curve.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w38-the-expertise-curve.mp3" length="15128596" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w38-the-expertise-curve.mp3</guid>
       <itunes:duration>15:45</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -972,8 +972,8 @@
       <description>Mike had 70 items scattered across projects and the Workbench and couldn&apos;t tell what mattered. The fix: one home per to-do (a markdown file in the project folder), two layers per item (a headline short enough to judge at a glance, detail underneath for Claude), and a machine-readable priority line so code can sort without burning tokens. The bigger idea - use as much AI as you need and as little as you can get away with. Anything if-this-then-that should be a script.</description>
       <itunes:summary>Mike had 70 items scattered across projects and the Workbench and couldn&apos;t tell what mattered. The fix: one home per to-do (a markdown file in the project folder), two layers per item (a headline short enough to judge at a glance, detail underneath for Claude), and a machine-readable priority line so code can sort without burning tokens. The bigger idea - use as much AI as you need and as little as you can get away with. Anything if-this-then-that should be a script.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 09:34:14 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3" length="21750741" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w39-organising-your-to-do-items.mp3" length="21750741" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w39-organising-your-to-do-items.mp3</guid>
       <itunes:duration>22:39</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -983,8 +983,8 @@
       <description>The new buzzword after prompt, context and loop engineering - and Mike&apos;s verdict is that you can skip it, because it&apos;s a new name for work you&apos;re already doing. Coming up a level from doing the work to designing the system that does it: plan, research, skeptic, merge, decide. His meeting-prep skill turns out to be a graph. Where you put the check depends on what a mistake would cost, and the more you trust it the more you get out of the way.</description>
       <itunes:summary>The new buzzword after prompt, context and loop engineering - and Mike&apos;s verdict is that you can skip it, because it&apos;s a new name for work you&apos;re already doing. Coming up a level from doing the work to designing the system that does it: plan, research, skeptic, merge, decide. His meeting-prep skill turns out to be a graph. Where you put the check depends on what a mistake would cost, and the more you trust it the more you get out of the way.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 09:34:42 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3" length="9944230" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w40-graph-engineering-work.mp3" length="9944230" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w40-graph-engineering-work.mp3</guid>
       <itunes:duration>10:21</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -994,8 +994,8 @@
       <description>The why, not the how-to. Mike&apos;s thesis: just doing Google Ads stops being enough in six to eighteen months, squeezed by client perception, Google, nervous agencies cutting price, and AI-native newcomers. The answers are get known, or add services and bundle them. Client Brain makes AI multiplayer by sharing context, skills and connectors - aimed at small businesses you already have a relationship with, starting at email triage and meeting prep. Not a Google Ads tool, and not replacing yourself.</description>
       <itunes:summary>The why, not the how-to. Mike&apos;s thesis: just doing Google Ads stops being enough in six to eighteen months, squeezed by client perception, Google, nervous agencies cutting price, and AI-native newcomers. The answers are get known, or add services and bundle them. Client Brain makes AI multiplayer by sharing context, skills and connectors - aimed at small businesses you already have a relationship with, starting at email triage and meeting prep. Not a Google Ads tool, and not replacing yourself.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 09:35:01 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3" length="35743597" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w41-why-i-created-client-brain.mp3" length="35743597" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w41-why-i-created-client-brain.mp3</guid>
       <itunes:duration>37:14</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
@@ -1005,8 +1005,8 @@
       <description>The flow behind the Workbench content Kanban, in more detail than you wanted. Five columns that are five folders, so dragging a card physically moves the markdown file. Ideas harvested overnight and scored out of 100 (threshold pushed from 70 to 85, because 25 ideas means reading none). Dragging to Draft spawns a colour-tinted terminal. Then the QA stack that accreted over time - scaffolding scan, reader&apos;s-eyes check, six separate evals - and rules written from the diff between what it wrote and what Mike changed.</description>
       <itunes:summary>The flow behind the Workbench content Kanban, in more detail than you wanted. Five columns that are five folders, so dragging a card physically moves the markdown file. Ideas harvested overnight and scored out of 100 (threshold pushed from 70 to 85, because 25 ideas means reading none). Dragging to Draft spawns a colour-tinted terminal. Then the QA stack that accreted over time - scaffolding scan, reader&apos;s-eyes check, six separate evals - and rules written from the diff between what it wrote and what Mike changed.</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 09:35:29 GMT</pubDate>
-      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3" length="17827777" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3</guid>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w42-how-the-content-board-works.mp3" length="17827777" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w42-how-the-content-board-works.mp3</guid>
       <itunes:duration>18:34</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
