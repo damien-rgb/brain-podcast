@@ -788,5 +788,15 @@
     "bytes": 10025132,
     "duration": 626.544,
     "pubDate": "Mon, 17 Aug 2026 07:57:10 GMT"
+  },
+  {
+    "num": 80,
+    "slug": "oracle-anatomy-02",
+    "title": "The Anatomy of an Oracle 2: The Question, the Odds, and the Randomiser",
+    "description": "The three mandatory parts. Why a dead question wastes a roll and how to test for a live one, the rule that separates world-facing unknowns from character-facing choices, why you must declare the odds before you roll rather than after, and how several dice of different colours can be read as separate channels from a single throw.",
+    "file": "80-oracle-anatomy-02.mp3",
+    "bytes": 9092780,
+    "duration": 568.272,
+    "pubDate": "Mon, 17 Aug 2026 09:06:43 GMT"
   }
 ]

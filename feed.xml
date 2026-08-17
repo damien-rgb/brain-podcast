@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:06:43 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -887,6 +887,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/79-oracle-anatomy-01.mp3" length="10025132" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/79-oracle-anatomy-01.mp3</guid>
       <itunes:duration>10:27</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 2: The Question, the Odds, and the Randomiser</title>
+      <description>The three mandatory parts. Why a dead question wastes a roll and how to test for a live one, the rule that separates world-facing unknowns from character-facing choices, why you must declare the odds before you roll rather than after, and how several dice of different colours can be read as separate channels from a single throw.</description>
+      <itunes:summary>The three mandatory parts. Why a dead question wastes a roll and how to test for a live one, the rule that separates world-facing unknowns from character-facing choices, why you must declare the odds before you roll rather than after, and how several dice of different colours can be read as separate channels from a single throw.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:06:43 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/80-oracle-anatomy-02.mp3" length="9092780" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/80-oracle-anatomy-02.mp3</guid>
+      <itunes:duration>9:28</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
