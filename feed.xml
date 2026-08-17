@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:21:51 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1008,6 +1008,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3" length="17827777" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/90-w42-how-the-content-board-works.mp3</guid>
       <itunes:duration>18:34</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Monthly Q&amp;A: June 2026</title>
+      <description>The six-level trust progression that replaces the old five-step model, with Level 4 Systems as the month&apos;s goal - wiring skills, context and data together, plus the observability and logging that make a system worth trusting. The free Agency Brain launch with owner, scout and team-member roles. The Google Ads Proxy course that moves API keys into a Cloudflare Worker and saves big reports as CSVs so they never fill the context window. And why HTML beats Markdown for anything you want to review or edit.</description>
+      <itunes:summary>The six-level trust progression that replaces the old five-step model, with Level 4 Systems as the month&apos;s goal - wiring skills, context and data together, plus the observability and logging that make a system worth trusting. The free Agency Brain launch with owner, scout and team-member roles. The Google Ads Proxy course that moves API keys into a Cloudflare Worker and saves big reports as CSVs so they never fill the context window. And why HTML beats Markdown for anything you want to review or edit.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 13:21:51 GMT</pubDate>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-06-june-qa.mp3" length="69406866" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-06-june-qa.mp3</guid>
+      <itunes:duration>1:12:18</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -898,5 +898,15 @@
     "bytes": 17827777,
     "duration": 1114.163084,
     "pubDate": "Mon, 17 Aug 2026 09:35:29 GMT"
+  },
+  {
+    "num": 91,
+    "slug": "qa-2026-06",
+    "title": "Monthly Q&A: June 2026",
+    "description": "The six-level trust progression that replaces the old five-step model, with Level 4 Systems as the month's goal - wiring skills, context and data together, plus the observability and logging that make a system worth trusting. The free Agency Brain launch with owner, scout and team-member roles. The Google Ads Proxy course that moves API keys into a Cloudflare Worker and saves big reports as CSVs so they never fill the context window. And why HTML beats Markdown for anything you want to review or edit.",
+    "url": "https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-06-june-qa.mp3",
+    "bytes": 69406866,
+    "duration": 4337.855986,
+    "pubDate": "Mon, 17 Aug 2026 13:21:51 GMT"
   }
 ]
