@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:45:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:57:10 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -876,6 +876,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/78-sc-8-4.mp3" length="4982444" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/78-sc-8-4.mp3</guid>
       <itunes:duration>5:11</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 1: The Missing Person at the Table</title>
+      <description>What solo RPG oracles are actually for. Why the referee is mechanically a box holding information you don&apos;t have, what happens to play when that box is removed, and why the useful question about any oracle is not simple-vs-complex but which of the referee&apos;s ten jobs it takes over. Plus how the field got here, from 1970s solo wargaming to the 2003 arrival of dice-driven question answering.</description>
+      <itunes:summary>What solo RPG oracles are actually for. Why the referee is mechanically a box holding information you don&apos;t have, what happens to play when that box is removed, and why the useful question about any oracle is not simple-vs-complex but which of the referee&apos;s ten jobs it takes over. Plus how the field got here, from 1970s solo wargaming to the 2003 arrival of dice-driven question answering.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 07:57:10 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/79-oracle-anatomy-01.mp3" length="10025132" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/79-oracle-anatomy-01.mp3</guid>
+      <itunes:duration>10:27</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
