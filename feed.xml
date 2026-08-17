@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:06:55 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -909,6 +909,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/81-oracle-anatomy-03.mp3" length="8395052" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/81-oracle-anatomy-03.mp3</guid>
       <itunes:duration>8:45</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 4: Anomalies and Interpretation</title>
+      <description>How a pile of tables learns to interrupt you. Doubles as a free second channel, the Recluse inversion that attacks your premise rather than your plan, and the trap inside spark tables: two species that look identical and behave in opposite ways. Plus apophenia, confirmation bias, and why oracles should be the spice and not the main course.</description>
+      <itunes:summary>How a pile of tables learns to interrupt you. Doubles as a free second channel, the Recluse inversion that attacks your premise rather than your plan, and the trap inside spark tables: two species that look identical and behave in opposite ways. Plus apophenia, confirmation bias, and why oracles should be the spice and not the main course.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:06:55 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/82-oracle-anatomy-04.mp3" length="9453740" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/82-oracle-anatomy-04.mp3</guid>
+      <itunes:duration>9:51</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

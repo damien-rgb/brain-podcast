@@ -808,5 +808,15 @@
     "bytes": 8395052,
     "duration": 524.664,
     "pubDate": "Mon, 17 Aug 2026 09:06:50 GMT"
+  },
+  {
+    "num": 82,
+    "slug": "oracle-anatomy-04",
+    "title": "The Anatomy of an Oracle 4: Anomalies and Interpretation",
+    "description": "How a pile of tables learns to interrupt you. Doubles as a free second channel, the Recluse inversion that attacks your premise rather than your plan, and the trap inside spark tables: two species that look identical and behave in opposite ways. Plus apophenia, confirmation bias, and why oracles should be the spice and not the main course.",
+    "file": "82-oracle-anatomy-04.mp3",
+    "bytes": 9453740,
+    "duration": 590.832,
+    "pubDate": "Mon, 17 Aug 2026 09:06:55 GMT"
   }
 ]
