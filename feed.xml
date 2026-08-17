@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:08:18 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -931,6 +931,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/83-oracle-anatomy-05.mp3" length="9047852" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/83-oracle-anatomy-05.mp3</guid>
       <itunes:duration>9:25</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 6: Generators, and Where Continuity Comes From</title>
+      <description>Why generators answer what is it rather than is it so, the specialist emulator built for the one moment solo play collapses most reliably, and the composition rules that make combined tables work: four axes maximum, one question per table, and the anchor test. Then the cheapest clever mechanic in the hobby: two numbered lists that manufacture the feeling of a plot closing around you.</description>
+      <itunes:summary>Why generators answer what is it rather than is it so, the specialist emulator built for the one moment solo play collapses most reliably, and the composition rules that make combined tables work: four axes maximum, one question per table, and the anchor test. Then the cheapest clever mechanic in the hobby: two numbered lists that manufacture the feeling of a plot closing around you.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:08:18 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/84-oracle-anatomy-06.mp3" length="8833580" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/84-oracle-anatomy-06.mp3</guid>
+      <itunes:duration>9:12</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
