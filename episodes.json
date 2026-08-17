@@ -868,5 +868,15 @@
     "bytes": 21750741,
     "duration": 1359.36,
     "pubDate": "Mon, 17 Aug 2026 09:34:14 GMT"
+  },
+  {
+    "num": 88,
+    "slug": "w40-graph-engineering-work",
+    "title": "Weekly 40: Graph Engineering = Work",
+    "description": "The new buzzword after prompt, context and loop engineering - and Mike's verdict is that you can skip it, because it's a new name for work you're already doing. Coming up a level from doing the work to designing the system that does it: plan, research, skeptic, merge, decide. His meeting-prep skill turns out to be a graph. Where you put the check depends on what a mistake would cost, and the more you trust it the more you get out of the way.",
+    "file": "88-w40-graph-engineering-work.mp3",
+    "bytes": 9944230,
+    "duration": 621.44,
+    "pubDate": "Mon, 17 Aug 2026 09:34:42 GMT"
   }
 ]

@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:34:42 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -975,6 +975,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3" length="21750741" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/87-w39-organising-your-to-do-items.mp3</guid>
       <itunes:duration>22:39</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 40: Graph Engineering = Work</title>
+      <description>The new buzzword after prompt, context and loop engineering - and Mike&apos;s verdict is that you can skip it, because it&apos;s a new name for work you&apos;re already doing. Coming up a level from doing the work to designing the system that does it: plan, research, skeptic, merge, decide. His meeting-prep skill turns out to be a graph. Where you put the check depends on what a mistake would cost, and the more you trust it the more you get out of the way.</description>
+      <itunes:summary>The new buzzword after prompt, context and loop engineering - and Mike&apos;s verdict is that you can skip it, because it&apos;s a new name for work you&apos;re already doing. Coming up a level from doing the work to designing the system that does it: plan, research, skeptic, merge, decide. His meeting-prep skill turns out to be a graph. Where you put the check depends on what a mistake would cost, and the more you trust it the more you get out of the way.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:34:42 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3" length="9944230" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3</guid>
+      <itunes:duration>10:21</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
