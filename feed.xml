@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:35:01 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -986,6 +986,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3" length="9944230" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/88-w40-graph-engineering-work.mp3</guid>
       <itunes:duration>10:21</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 41: Why I Created Client Brain</title>
+      <description>The why, not the how-to. Mike&apos;s thesis: just doing Google Ads stops being enough in six to eighteen months, squeezed by client perception, Google, nervous agencies cutting price, and AI-native newcomers. The answers are get known, or add services and bundle them. Client Brain makes AI multiplayer by sharing context, skills and connectors - aimed at small businesses you already have a relationship with, starting at email triage and meeting prep. Not a Google Ads tool, and not replacing yourself.</description>
+      <itunes:summary>The why, not the how-to. Mike&apos;s thesis: just doing Google Ads stops being enough in six to eighteen months, squeezed by client perception, Google, nervous agencies cutting price, and AI-native newcomers. The answers are get known, or add services and bundle them. Client Brain makes AI multiplayer by sharing context, skills and connectors - aimed at small businesses you already have a relationship with, starting at email triage and meeting prep. Not a Google Ads tool, and not replacing yourself.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:35:01 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3" length="35743597" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/89-w41-why-i-created-client-brain.mp3</guid>
+      <itunes:duration>37:14</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
