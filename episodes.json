@@ -798,5 +798,15 @@
     "bytes": 9092780,
     "duration": 568.272,
     "pubDate": "Mon, 17 Aug 2026 09:06:43 GMT"
+  },
+  {
+    "num": 81,
+    "slug": "oracle-anatomy-03",
+    "title": "The Anatomy of an Oracle 3: The Answer Ladder",
+    "description": "The most important idea in the field. Why a plain yes or no closes your question and returns the creative burden to you, how the six-rung ladder works, and why the value lives entirely in the and and the but. Includes why constraints are generative, and why not creative enough is almost always a false diagnosis.",
+    "file": "81-oracle-anatomy-03.mp3",
+    "bytes": 8395052,
+    "duration": 524.664,
+    "pubDate": "Mon, 17 Aug 2026 09:06:50 GMT"
   }
 ]

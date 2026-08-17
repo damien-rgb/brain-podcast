@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:06:50 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -898,6 +898,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/80-oracle-anatomy-02.mp3" length="9092780" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/80-oracle-anatomy-02.mp3</guid>
       <itunes:duration>9:28</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Anatomy of an Oracle 3: The Answer Ladder</title>
+      <description>The most important idea in the field. Why a plain yes or no closes your question and returns the creative burden to you, how the six-rung ladder works, and why the value lives entirely in the and and the but. Includes why constraints are generative, and why not creative enough is almost always a false diagnosis.</description>
+      <itunes:summary>The most important idea in the field. Why a plain yes or no closes your question and returns the creative burden to you, how the six-rung ladder works, and why the value lives entirely in the and and the but. Includes why constraints are generative, and why not creative enough is almost always a false diagnosis.</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 09:06:50 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/81-oracle-anatomy-03.mp3" length="8395052" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/81-oracle-anatomy-03.mp3</guid>
+      <itunes:duration>8:45</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
