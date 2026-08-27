@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:00:36 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1030,6 +1030,17 @@
       <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-07-july-qa.mp3" length="58870533" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-07-july-qa.mp3</guid>
       <itunes:duration>1:01:19</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Maze Rats Solo: Where to Look, and Why</title>
+      <description>The two tools on the solo play sheet and how they differ. The d6 oracle and the one rule for asking it, reaction on the same die, and then the grammar: why a noun anchors, why an adjective needs something to attach to, why a verb aims things at you. Where each lives in the Maze Rats book, and what Push does.</description>
+      <itunes:summary>The two tools on the solo play sheet and how they differ. The d6 oracle and the one rule for asking it, reaction on the same die, and then the grammar: why a noun anchors, why an adjective needs something to attach to, why a verb aims things at you. Where each lives in the Maze Rats book, and what Push does.</itunes:summary>
+      <pubDate>Thu, 27 Aug 2026 09:00:36 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/93-mazerats-solo-where-to-look.mp3" length="5147180" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/93-mazerats-solo-where-to-look.mp3</guid>
+      <itunes:duration>5:22</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
