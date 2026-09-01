@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:19:39 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1063,6 +1063,17 @@
       <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w43-the-client-brain-training-kit.mp3" length="14221207" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w43-the-client-brain-training-kit.mp3</guid>
       <itunes:duration>14:49</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 45: Use Claude Design to Redesign Workbench</title>
+      <description>Changing the look of something real with Claude Design, without being a designer - Mike reworks the Workbench&apos;s appearance.</description>
+      <itunes:summary>Changing the look of something real with Claude Design, without being a designer - Mike reworks the Workbench&apos;s appearance.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 07:19:39 GMT</pubDate>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w45-claude-design-workbench.mp3" length="17309925" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w45-claude-design-workbench.mp3</guid>
+      <itunes:duration>18:02</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

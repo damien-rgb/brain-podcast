@@ -948,5 +948,15 @@
     "bytes": 14221207,
     "duration": 888.746667,
     "pubDate": "Tue, 01 Sep 2026 07:19:28 GMT"
+  },
+  {
+    "num": 96,
+    "slug": "w45-claude-design-workbench",
+    "title": "Weekly 45: Use Claude Design to Redesign Workbench",
+    "description": "Changing the look of something real with Claude Design, without being a designer - Mike reworks the Workbench's appearance.",
+    "url": "https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w45-claude-design-workbench.mp3",
+    "bytes": 17309925,
+    "duration": 1081.792018,
+    "pubDate": "Tue, 01 Sep 2026 07:19:39 GMT"
   }
 ]
