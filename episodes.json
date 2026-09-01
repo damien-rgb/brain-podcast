@@ -958,5 +958,15 @@
     "bytes": 17309925,
     "duration": 1081.792018,
     "pubDate": "Tue, 01 Sep 2026 07:19:39 GMT"
+  },
+  {
+    "num": 97,
+    "slug": "qa-2026-08",
+    "title": "Monthly Q&A: August 2026",
+    "description": "The Expert Council skill (15-20 researched expert personas run through de Bono's Six Thinking Hats), an image tool built live in two or three prompts, and the rest of the August call.",
+    "url": "https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-08-august-qa.mp3",
+    "bytes": 57734101,
+    "duration": 3608.298685,
+    "pubDate": "Tue, 01 Sep 2026 07:19:50 GMT"
   }
 ]

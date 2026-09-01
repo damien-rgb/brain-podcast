@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:19:50 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1074,6 +1074,17 @@
       <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w45-claude-design-workbench.mp3" length="17309925" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w45-claude-design-workbench.mp3</guid>
       <itunes:duration>18:02</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Monthly Q&amp;A: August 2026</title>
+      <description>The Expert Council skill (15-20 researched expert personas run through de Bono&apos;s Six Thinking Hats), an image tool built live in two or three prompts, and the rest of the August call.</description>
+      <itunes:summary>The Expert Council skill (15-20 researched expert personas run through de Bono&apos;s Six Thinking Hats), an image tool built live in two or three prompts, and the rest of the August call.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 07:19:50 GMT</pubDate>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-08-august-qa.mp3" length="57734101" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-08-august-qa.mp3</guid>
+      <itunes:duration>1:00:08</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
