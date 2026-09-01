@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:19:28 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1052,6 +1052,17 @@
       <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w44-work-on-your-ai-not-in-it.mp3" length="66834745" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w44-work-on-your-ai-not-in-it.mp3</guid>
       <itunes:duration>1:09:37</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 43: The Client Brain Training Kit</title>
+      <description>The how-to tour of the client brain training documents: about twenty of them, 57,000 words, and how they were built.</description>
+      <itunes:summary>The how-to tour of the client brain training documents: about twenty of them, 57,000 words, and how they were built.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 07:19:28 GMT</pubDate>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w43-the-client-brain-training-kit.mp3" length="14221207" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w43-the-client-brain-training-kit.mp3</guid>
+      <itunes:duration>14:49</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
