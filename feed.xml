@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:19:12 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1041,6 +1041,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/93-mazerats-solo-where-to-look.mp3" length="5147180" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/93-mazerats-solo-where-to-look.mp3</guid>
       <itunes:duration>5:22</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly 44: Work On Your AI, Not In It</title>
+      <description>Mike&apos;s talk to Dave Jenyns&apos; SYSTEMology community: the haunted house metaphor for the adjacent possible, the eight things he wishes he&apos;d known sooner (agency, context, voice, outcome, interview, iterate, learn, question), what he sees coming, what non-coders have built, and the dip.</description>
+      <itunes:summary>Mike&apos;s talk to Dave Jenyns&apos; SYSTEMology community: the haunted house metaphor for the adjacent possible, the eight things he wishes he&apos;d known sooner (agency, context, voice, outcome, interview, iterate, learn, question), what he sees coming, what non-coders have built, and the dip.</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 07:19:12 GMT</pubDate>
+      <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w44-work-on-your-ai-not-in-it.mp3" length="66834745" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/weekly/w44-work-on-your-ai-not-in-it.mp3</guid>
+      <itunes:duration>1:09:37</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
