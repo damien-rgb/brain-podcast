@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:15:51 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1085,6 +1085,17 @@
       <enclosure url="https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-08-august-qa.mp3" length="57734101" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-f9e4e1f7585a4fb1821ee1c826ba8c6c.r2.dev/monthly-qa/2026-08-august-qa.mp3</guid>
       <itunes:duration>1:00:08</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The way your head actually works</title>
+      <description>The 6 September session: monotropism, aphantasia, object impermanence, and why you run on expeditions rather than systems.</description>
+      <itunes:summary>The 6 September session: monotropism, aphantasia, object impermanence, and why you run on expeditions rather than systems.</itunes:summary>
+      <pubDate>Sun, 06 Sep 2026 15:15:51 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/98-mechanism-session-20260906.mp3" length="15392684" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/98-mechanism-session-20260906.mp3</guid>
+      <itunes:duration>16:02</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
