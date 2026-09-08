@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:48:36 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1096,6 +1096,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/98-mechanism-session-20260906.mp3" length="15392684" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/98-mechanism-session-20260906.mp3</guid>
       <itunes:duration>16:02</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Selling Client Brain 1: The Two Numbers</title>
+      <description>What you pay Ads2AI and what your client pays you, and why the two have nothing to do with each other.</description>
+      <itunes:summary>What you pay Ads2AI and what your client pays you, and why the two have nothing to do with each other.</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 17:48:36 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/99-selling-client-brain-1.mp3" length="3386924" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/99-selling-client-brain-1.mp3</guid>
+      <itunes:duration>3:32</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
