@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:48:47 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1107,6 +1107,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/99-selling-client-brain-1.mp3" length="3386924" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/99-selling-client-brain-1.mp3</guid>
       <itunes:duration>3:32</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Selling Client Brain 2: Who To Sell To, And Who To Refuse</title>
+      <description>The four things that must be true, the not-yet flags, the hard nos, and the six questions that disqualify fast.</description>
+      <itunes:summary>The four things that must be true, the not-yet flags, the hard nos, and the six questions that disqualify fast.</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 17:48:47 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/100-selling-client-brain-2.mp3" length="4019756" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/100-selling-client-brain-2.mp3</guid>
+      <itunes:duration>4:11</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
