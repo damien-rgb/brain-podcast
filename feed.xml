@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:49:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:49:40 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1162,6 +1162,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/104-selling-client-brain-6.mp3" length="3775148" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/104-selling-client-brain-6.mp3</guid>
       <itunes:duration>3:56</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Selling Client Brain 7: Objection Handling</title>
+      <description>The three rules, plus the money, tooling, time, trust and stall objections with short answers.</description>
+      <itunes:summary>The three rules, plus the money, tooling, time, trust and stall objections with short answers.</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 17:49:40 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/105-selling-client-brain-7.mp3" length="4258988" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/105-selling-client-brain-7.mp3</guid>
+      <itunes:duration>4:26</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
