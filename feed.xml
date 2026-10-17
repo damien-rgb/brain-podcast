@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:38:37 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1217,6 +1217,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/109-forbidden-lands-01.mp3" length="16482860" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/109-forbidden-lands-01.mp3</guid>
       <itunes:duration>17:10</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Forbidden Lands 2: Making a Character</title>
+      <description>Twelve steps, and the first three fix every number the later ones spend. Why age is a fragility dial, and why skill points outside your profession buy almost nothing.</description>
+      <itunes:summary>Twelve steps, and the first three fix every number the later ones spend. Why age is a fragility dial, and why skill points outside your profession buy almost nothing.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:38:37 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/110-forbidden-lands-02.mp3" length="18973100" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/110-forbidden-lands-02.mp3</guid>
+      <itunes:duration>19:46</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
