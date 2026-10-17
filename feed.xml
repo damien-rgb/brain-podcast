@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:38:57 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1239,6 +1239,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/111-forbidden-lands-03.mp3" length="21500588" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/111-forbidden-lands-03.mp3</guid>
       <itunes:duration>22:24</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Forbidden Lands 4: Rolling for Things</title>
+      <description>Eight of the sixteen skills need no procedure at all. The eight that do, plus the social conflict modifiers and why wounding someone first improves your negotiating position.</description>
+      <itunes:summary>Eight of the sixteen skills need no procedure at all. The eight that do, plus the social conflict modifiers and why wounding someone first improves your negotiating position.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:38:57 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/112-forbidden-lands-04.mp3" length="13437356" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/112-forbidden-lands-04.mp3</guid>
+      <itunes:duration>14:00</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
