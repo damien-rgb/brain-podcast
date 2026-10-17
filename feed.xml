@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:52:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:55:37 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1316,6 +1316,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/118-forbidden-lands-10.mp3" length="25905452" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/118-forbidden-lands-10.mp3</guid>
       <itunes:duration>26:59</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Forbidden Lands 11: Running It</title>
+      <description>Monsters are a second ruleset that switches things off: their attacks cannot be parried, and their Strength is a capacity, not a dice pool. Plus what the GM may not decide.</description>
+      <itunes:summary>Monsters are a second ruleset that switches things off: their attacks cannot be parried, and their Strength is a capacity, not a dice pool. Plus what the GM may not decide.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:55:37 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/119-forbidden-lands-11.mp3" length="22050092" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/119-forbidden-lands-11.mp3</guid>
+      <itunes:duration>22:58</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
