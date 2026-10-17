@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:41:35 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1261,6 +1261,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/113-forbidden-lands-05.mp3" length="19396652" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/113-forbidden-lands-05.mp3</guid>
       <itunes:duration>20:12</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Forbidden Lands 6: Wounds and Death</title>
+      <description>No hit points. Damage eats the four numbers you roll dice with, so being hurt makes you worse at being hurt. Armour is a roll, and thirst kills you in a day.</description>
+      <itunes:summary>No hit points. Damage eats the four numbers you roll dice with, so being hurt makes you worse at being hurt. Armour is a roll, and thirst kills you in a day.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:41:35 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/114-forbidden-lands-06.mp3" length="12475820" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/114-forbidden-lands-06.mp3</guid>
+      <itunes:duration>13:00</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
