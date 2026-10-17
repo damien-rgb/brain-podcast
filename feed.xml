@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:52:33 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1294,6 +1294,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/116-forbidden-lands-08.mp3" length="23378732" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/116-forbidden-lands-08.mp3</guid>
       <itunes:duration>24:21</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Forbidden Lands 9: Journeys</title>
+      <description>Travel is a budget: four quarter days, one activity each, and a Survival roll before every mishap. Why a winter party gets one safe travel slot out of four.</description>
+      <itunes:summary>Travel is a budget: four quarter days, one activity each, and a Survival roll before every mishap. Why a winter party gets one safe travel slot out of four.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:52:33 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/117-forbidden-lands-09.mp3" length="18883244" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/117-forbidden-lands-09.mp3</guid>
+      <itunes:duration>19:40</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
