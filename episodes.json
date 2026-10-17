@@ -1098,5 +1098,15 @@
     "bytes": 18973100,
     "duration": 1185.792,
     "pubDate": "Sat, 17 Oct 2026 10:38:37 GMT"
+  },
+  {
+    "num": 111,
+    "slug": "forbidden-lands-03",
+    "title": "Forbidden Lands 3: Talents",
+    "description": "Not a list of abilities, a list of exceptions. Which rules talents are allowed to break: the two-action budget, armour, critical injuries, and the journey's scarcity of rest.",
+    "file": "111-forbidden-lands-03.mp3",
+    "bytes": 21500588,
+    "duration": 1343.76,
+    "pubDate": "Sat, 17 Oct 2026 10:38:46 GMT"
   }
 ]
