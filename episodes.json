@@ -1078,5 +1078,15 @@
     "bytes": 15453356,
     "duration": 965.808,
     "pubDate": "Mon, 12 Oct 2026 12:26:51 GMT"
+  },
+  {
+    "num": 109,
+    "slug": "forbidden-lands-01",
+    "title": "Forbidden Lands 1: The Engine",
+    "description": "The one roll that runs the whole game. Sixes are successes, ones are banes that only bite if you push, and pushing pays you Willpower while eating the attribute you rolled.",
+    "file": "109-forbidden-lands-01.mp3",
+    "bytes": 16482860,
+    "duration": 1030.152,
+    "pubDate": "Sat, 17 Oct 2026 10:38:16 GMT"
   }
 ]
