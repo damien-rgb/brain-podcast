@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:02:12 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1327,6 +1327,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/119-forbidden-lands-11.mp3" length="22050092" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/119-forbidden-lands-11.mp3</guid>
       <itunes:duration>22:58</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>One Misery Fewer: a four-session MÖRK BORG campaign</title>
+      <description>GM prep walkthrough for a campaign built from the core book, Feretory and Heretic, with the printed rules that link the four dungeons together.</description>
+      <itunes:summary>GM prep walkthrough for a campaign built from the core book, Feretory and Heretic, with the printed rules that link the four dungeons together.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 20:02:12 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/120-one-misery-fewer.mp3" length="12457004" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/120-one-misery-fewer.mp3</guid>
+      <itunes:duration>12:59</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
