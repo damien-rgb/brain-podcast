@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:11:25 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1338,6 +1338,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/120-one-misery-fewer.mp3" length="12457004" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/120-one-misery-fewer.mp3</guid>
       <itunes:duration>12:59</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>MÖRK BORG: the rules, in full</title>
+      <description>Every rule you need to run it, in table order: abilities, tests, combat, crits and fumbles, armour, Broken, infection, Omens, Powers, advancement, the six classes and the Calendar of Nechrubel.</description>
+      <itunes:summary>Every rule you need to run it, in table order: abilities, tests, combat, crits and fumbles, armour, Broken, infection, Omens, Powers, advancement, the six classes and the Calendar of Nechrubel.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 05:11:25 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/121-morkborg-rules.mp3" length="17290796" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/121-morkborg-rules.mp3</guid>
+      <itunes:duration>18:01</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
