@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:17:19 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1349,6 +1349,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/121-morkborg-rules.mp3" length="17290796" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/121-morkborg-rules.mp3</guid>
       <itunes:duration>18:01</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How to run MÖRK BORG: the craft</title>
+      <description>GM technique rather than rules: the referee&apos;s stance, telegraphing lethality, the Information-Choice-Impact loop, description formulas, what to steal from the actual plays, and table procedures for a game that eats characters.</description>
+      <itunes:summary>GM technique rather than rules: the referee&apos;s stance, telegraphing lethality, the Information-Choice-Impact loop, description formulas, what to steal from the actual plays, and table procedures for a game that eats characters.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 05:17:19 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/122-morkborg-gm-craft.mp3" length="12945836" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/122-morkborg-gm-craft.mp3</guid>
+      <itunes:duration>13:29</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
