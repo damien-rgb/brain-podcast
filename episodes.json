@@ -1218,5 +1218,15 @@
     "bytes": 12945836,
     "duration": 809.088,
     "pubDate": "Fri, 06 Nov 2026 05:17:19 GMT"
+  },
+  {
+    "num": 123,
+    "slug": "succeeded-is-not-evidence",
+    "title": "Succeeded is not evidence",
+    "description": "Week 47 of Mike's weeklies, scheduled tasks, read against the fourteen scheduled tasks this brain runs. All fourteen report success; this is about why that is not the same as working, using a contractor loop that skipped 81 consecutive runs behind a green exit code.",
+    "file": "123-succeeded-is-not-evidence.mp3",
+    "bytes": 7420460,
+    "duration": 463.752,
+    "pubDate": "Mon, 16 Nov 2026 08:18:28 GMT"
   }
 ]
