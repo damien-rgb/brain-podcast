@@ -1228,5 +1228,15 @@
     "bytes": 7420460,
     "duration": 463.752,
     "pubDate": "Mon, 16 Nov 2026 08:18:28 GMT"
+  },
+  {
+    "num": 124,
+    "slug": "the-vault-we-already-run",
+    "title": "The vault we already run",
+    "description": "Week 48, the API Gateway, read against the four credential vaults this brain already runs. Where we are ahead, the one-administrator trap nobody warns you about, and why per-action control and per-person control catch different mistakes.",
+    "file": "124-the-vault-we-already-run.mp3",
+    "bytes": 6087212,
+    "duration": 380.424,
+    "pubDate": "Mon, 16 Nov 2026 08:18:38 GMT"
   }
 ]
