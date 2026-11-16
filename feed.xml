@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:59:05 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1393,6 +1393,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/125-lurgan-1-the-friends.mp3" length="24845105" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/125-lurgan-1-the-friends.mp3</guid>
       <itunes:duration>20:42</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 2: Brownlow&apos;s town</title>
+      <description>Why Lurgan exists at all. The McCanns who held the long ridge, the 1610 grants, what an undertaker and a bawn actually were, 1641 and Portadown bridge, and the landlord who bought cloth at a loss until the linen market was real.</description>
+      <itunes:summary>Why Lurgan exists at all. The McCanns who held the long ridge, the 1610 grants, what an undertaker and a bawn actually were, 1641 and Portadown bridge, and the landlord who bought cloth at a loss until the linen market was real.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 09:59:05 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/126-lurgan-2-brownlow-s-town.mp3" length="21932974" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/126-lurgan-2-brownlow-s-town.mp3</guid>
+      <itunes:duration>18:17</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
