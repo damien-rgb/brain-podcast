@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:53:25 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1382,6 +1382,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/124-the-vault-we-already-run.mp3" length="6087212" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/124-the-vault-we-already-run.mp3</guid>
       <itunes:duration>6:20</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 1: The Friends</title>
+      <description>Who the Quakers were, what they believed, and why Irish Quakerism began in a house on Church Place in Lurgan in 1654. Edmundson, the four refusals, the wooden horse, and how a persecuted sect became the linen aristocracy.</description>
+      <itunes:summary>Who the Quakers were, what they believed, and why Irish Quakerism began in a house on Church Place in Lurgan in 1654. Edmundson, the four refusals, the wooden horse, and how a persecuted sect became the linen aristocracy.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 09:53:25 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/125-lurgan-1-the-friends.mp3" length="24845105" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/125-lurgan-1-the-friends.mp3</guid>
+      <itunes:duration>20:42</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
