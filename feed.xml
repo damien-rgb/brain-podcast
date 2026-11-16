@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:04:31 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1404,6 +1404,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/126-lurgan-2-brownlow-s-town.mp3" length="21932974" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/126-lurgan-2-brownlow-s-town.mp3</guid>
       <itunes:duration>18:17</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 3: The loom that needed no hands</title>
+      <description>How a handloom actually works, why the weaving room floor was kept wet, and why the power loom held off from linen for twenty years. The 1855 crowd that went to wreck Malcolm&apos;s factory, and how the American Civil War boom paid for the weavers&apos; replacement.</description>
+      <itunes:summary>How a handloom actually works, why the weaving room floor was kept wet, and why the power loom held off from linen for twenty years. The 1855 crowd that went to wreck Malcolm&apos;s factory, and how the American Civil War boom paid for the weavers&apos; replacement.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 10:04:31 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/127-lurgan-3-the-loom-that-needed-no-hands.mp3" length="20354656" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/127-lurgan-3-the-loom-that-needed-no-hands.mp3</guid>
+      <itunes:duration>16:58</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
