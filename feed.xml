@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:25:43 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1459,6 +1459,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/131-lurgan-7-the-cambric-trade.mp3" length="18206346" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/131-lurgan-7-the-cambric-trade.mp3</guid>
       <itunes:duration>15:10</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 8: Gas, bricks and beer</title>
+      <description>How a gas works cooked coal to make light, why ninety street lamps went out at midnight, what actually happened in a brick field, and the two breweries nobody named. Plus Greer&apos;s distillery, one of the biggest in Ireland, which burned in 1837 and ended up as a famine workhouse.</description>
+      <itunes:summary>How a gas works cooked coal to make light, why ninety street lamps went out at midnight, what actually happened in a brick field, and the two breweries nobody named. Plus Greer&apos;s distillery, one of the biggest in Ireland, which burned in 1837 and ended up as a famine workhouse.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:25:43 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/132-lurgan-8-gas-bricks-and-beer.mp3" length="19006737" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/132-lurgan-8-gas-bricks-and-beer.mp3</guid>
+      <itunes:duration>15:50</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
