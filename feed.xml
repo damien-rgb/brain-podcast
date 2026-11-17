@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:16:25 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1437,6 +1437,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/129-lurgan-5-the-fair-folk-are-not-fairies.mp3" length="20039097" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/129-lurgan-5-the-fair-folk-are-not-fairies.mp3</guid>
       <itunes:duration>16:42</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 6: The stinking river</title>
+      <description>What flax retting actually was, why the eels crawled out of the lint holes to die, and how the bleach greens and the brand new 1855 sewer turned the Pound River into the thing the town later called the Stinker. Plus the landlord&apos;s ornamental lake, plumbed into the public drains.</description>
+      <itunes:summary>What flax retting actually was, why the eels crawled out of the lint holes to die, and how the bleach greens and the brand new 1855 sewer turned the Pound River into the thing the town later called the Stinker. Plus the landlord&apos;s ornamental lake, plumbed into the public drains.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:16:25 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/130-lurgan-6-the-stinking-river.mp3" length="24182640" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/130-lurgan-6-the-stinking-river.mp3</guid>
+      <itunes:duration>20:09</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
