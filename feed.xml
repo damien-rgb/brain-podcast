@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:20:43 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1448,6 +1448,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/130-lurgan-6-the-stinking-river.mp3" length="24182640" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/130-lurgan-6-the-stinking-river.mp3</guid>
       <itunes:duration>20:09</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 7: The cambric trade</title>
+      <description>The town&apos;s product, named after a town in Flanders: what cambric, lawn, diaper and damask actually are, thirty four miles of thread spun from one pound of flax, and the putting-out system that had eighteen thousand weavers working in their own kitchens for warps they did not own. The Friday linen hall, the Black Bull Inn, and the eight pairs of hands between the loom and the buyer.</description>
+      <itunes:summary>The town&apos;s product, named after a town in Flanders: what cambric, lawn, diaper and damask actually are, thirty four miles of thread spun from one pound of flax, and the putting-out system that had eighteen thousand weavers working in their own kitchens for warps they did not own. The Friday linen hall, the Black Bull Inn, and the eight pairs of hands between the loom and the buyer.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:20:43 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/131-lurgan-7-the-cambric-trade.mp3" length="18206346" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/131-lurgan-7-the-cambric-trade.mp3</guid>
+      <itunes:duration>15:10</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
