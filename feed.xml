@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:34:22 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1481,6 +1481,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/133-lurgan-9-the-iron-road.mp3" length="17394460" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/133-lurgan-9-the-iron-road.mp3</guid>
       <itunes:duration>14:30</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 10: The school and the bishops</title>
+      <description>Hedge schools, a Quaker woman teaching nine children in a kitchen for five pounds ten a year, and the 1831 letter that still underpins Irish schooling. Then the best building the town had ever seen opens on 2 March 1863 at a penny a week, and the hierarchy forbids it the same year. Both sides of that argument, put fairly, and the decision it forced at one kitchen table.</description>
+      <itunes:summary>Hedge schools, a Quaker woman teaching nine children in a kitchen for five pounds ten a year, and the 1831 letter that still underpins Irish schooling. Then the best building the town had ever seen opens on 2 March 1863 at a penny a week, and the hierarchy forbids it the same year. Both sides of that argument, put fairly, and the decision it forced at one kitchen table.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:34:22 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/134-lurgan-10-the-school-and-the-bishops.mp3" length="18143652" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/134-lurgan-10-the-school-and-the-bishops.mp3</guid>
+      <itunes:duration>15:07</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
