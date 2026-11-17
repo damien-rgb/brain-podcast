@@ -5,7 +5,7 @@
     <link>https://damien-rgb.github.io/brain-podcast/</link>
     <description>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:30:11 GMT</lastBuildDate>
     <itunes:author>Damien Fegan</itunes:author>
     <itunes:summary>A private feed of audio the brain narrates for me - research summaries, docs, plans, and notes. Made with the playable-audio skill.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -1470,6 +1470,17 @@
       <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/132-lurgan-8-gas-bricks-and-beer.mp3" length="19006737" type="audio/mpeg"/>
       <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/132-lurgan-8-gas-bricks-and-beer.mp3</guid>
       <itunes:duration>15:50</itunes:duration>
+      <itunes:author>Damien Fegan</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lurgan 9: The iron road</title>
+      <description>The canal that carried the district&apos;s linen for a century and beat the Bridgewater by thirty years, the railway that killed it, the gauge argument that forced the whole line to be relaid, and the second clock the trains brought into town. Why Lurgan sat on the Dublin to Belfast trunk from 1853, and why the ghost went on the railway and not the water.</description>
+      <itunes:summary>The canal that carried the district&apos;s linen for a century and beat the Bridgewater by thirty years, the railway that killed it, the gauge argument that forced the whole line to be relaid, and the second clock the trains brought into town. Why Lurgan sat on the Dublin to Belfast trunk from 1853, and why the ghost went on the railway and not the water.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:30:11 GMT</pubDate>
+      <enclosure url="https://damien-rgb.github.io/brain-podcast/audio/133-lurgan-9-the-iron-road.mp3" length="17394460" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://damien-rgb.github.io/brain-podcast/audio/133-lurgan-9-the-iron-road.mp3</guid>
+      <itunes:duration>14:30</itunes:duration>
       <itunes:author>Damien Fegan</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
